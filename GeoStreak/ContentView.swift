@@ -10,57 +10,59 @@ import SwiftData
 
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
-    @Query private var items: [Item]
-
+    @StateObject private var gameManager: GameManager
+    
+    init() {
+        // Initialize the GameManager with a temporary context
+        // The actual context will be injected via the Environment
+        self._gameManager = StateObject(wrappedValue: GameManager(context: ModelContext(try! ModelContainer(for: Country.self, UserProgress.self))))
+    }
+    
     var body: some View {
-        NavigationSplitView {
-            List {
-                ForEach(items) { item in
-                    NavigationLink {
-                        Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
-                    } label: {
-                        Text(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))
-                    }
-                }
-                .onDelete(perform: deleteItems)
+        Group {
+            if gameManager.isLoading {
+                LoadingView()
+            } else {
+                MainTabView()
+                    .environmentObject(gameManager)
             }
-#if os(macOS)
-            .navigationSplitViewColumnWidth(min: 180, ideal: 200)
-#endif
-            .toolbar {
-#if os(iOS)
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    EditButton()
-                }
-#endif
-                ToolbarItem {
-                    Button(action: addItem) {
-                        Label("Add Item", systemImage: "plus")
-                    }
-                }
-            }
-        } detail: {
-            Text("Select an item")
         }
-    }
-
-    private func addItem() {
-        withAnimation {
-            let newItem = Item(timestamp: Date())
-            modelContext.insert(newItem)
-        }
-    }
-
-    private func deleteItems(offsets: IndexSet) {
-        withAnimation {
-            for index in offsets {
-                modelContext.delete(items[index])
-            }
+        .onAppear {
+            // Update the model context with the one from the environment
+            gameManager.updateModelContext(modelContext)
         }
     }
 }
 
-#Preview {
-    ContentView()
-        .modelContainer(for: Item.self, inMemory: true)
+struct MainTabView: View {
+    @EnvironmentObject var gameManager: GameManager
+    @State private var showDailyChallenge = false
+    
+    var body: some View {
+        TabView {
+            StatsView()
+                .tabItem {
+                    Label("Stats", systemImage: "chart.bar.fill")
+                }
+            
+            LevelsView()
+                .tabItem {
+                    Label("Levels", systemImage: "map.fill")
+                }
+        }
+        .fullScreenCover(isPresented: $gameManager.showOnboarding) {
+            OnboardingView(coordinator: OnboardingCoordinator(gameManager: gameManager))
+                .environmentObject(gameManager)
+        }
+        .fullScreenCover(isPresented: $showDailyChallenge) {
+            DailyQuizView()
+                .environmentObject(gameManager)
+        }
+        .onAppear {
+            // Check if we need to show the daily challenge
+            if !gameManager.hasTodaysAnswer && !gameManager.showOnboarding {
+                showDailyChallenge = true
+            }
+        }
+    }
 }
