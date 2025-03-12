@@ -46,6 +46,12 @@ struct GeoStreakApp: App {
                         hasInitializedData = true
                         Logger.log("Initial data setup complete", level: .info)
                     }
+                    
+                    // Initialize CountryService in a background task
+                    Task {
+                        await CountryService.shared.initialize()
+                    }
+                    
                     Logger.log("App started", level: .info)
                 }
         }

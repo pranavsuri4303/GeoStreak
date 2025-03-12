@@ -1,0 +1,3223 @@
+[
+    {
+        "id": "AG",
+        "flag": "🇦🇬",
+        "name": { "value": "Antigua and Barbuda", "difficulty": 3 },
+        "capital": { "value": "Saint John's", "difficulty": 4 },
+        "largestCity": { "value": "Saint John's", "difficulty": 4 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Eastern Caribbean Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🏝️ Their beaches are so perfect, even the crabs 🦀 have vacation homes!",
+            "🎶 They claim calypso music, but the steel drums probably party harder than the locals!",
+            "🌞 365 beaches—one for every day, because who needs calendars when you've got sand?"
+        ],
+        "areaSquareKm": 440,
+        "nationalAnimal": "Fallow Deer",
+        "climate": "Tropical",
+        "summary": "Known for its pristine sailing waters and British colonial heritage, Antigua and Barbuda boasts a vibrant culture blending African and European influences. The nation's economy thrives on tourism while maintaining traditional Caribbean cultural expressions through music, festivals, and cuisine."
+    },
+    {
+        "id": "BS",
+        "flag": "🇧🇸",
+        "name": { "value": "Bahamas", "difficulty": 2 },
+        "capital": { "value": "Nassau", "difficulty": 2 },
+        "largestCity": { "value": "Nassau", "difficulty": 2 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Bahamian Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🐷 They've got swimming pigs 🏊—because even pork wants a beach day!",
+            "🏴‍☠️ Pirates loved it here; Blackbeard probably left his Wi-Fi password behind!",
+            "🌊 So many islands (700+), even the fish 🐠 get lost counting them!"
+        ],
+        "areaSquareKm": 13878,
+        "nationalAnimal": "Flamingo",
+        "climate": "Tropical",
+        "summary": "This archipelago nation blends vibrant Junkanoo festivals with rich maritime traditions. Bahamians celebrate their heritage through colorful art, distinctive Goombay rhythms, and warm hospitality. The country's diverse ecosystems nurture a unique cultural identity celebrated through storytelling and community gatherings."
+    },
+    {
+        "id": "BB",
+        "flag": "🇧🇧",
+        "name": { "value": "Barbados", "difficulty": 2 },
+        "capital": { "value": "Bridgetown", "difficulty": 3 },
+        "largestCity": { "value": "Bridgetown", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Barbadian Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌴 Their beaches are so cool, even the palm trees are on vacation mode!",
+            "🍹 Rum runs deeper than the ocean—every sip might inspire a dance move!",
+            "🎶 Soca beats and calypso vibes make every sunset a mini party!"
+        ],
+        "areaSquareKm": 430,
+        "nationalAnimal": "Flying Fish",
+        "climate": "Tropical",
+        "summary": "Barbados charms visitors with its distinctive blend of British traditions and Caribbean soul. Bajans embrace their heritage through lively folk music, spirited cricket matches, and renowned culinary delights. The island's resilient spirit shines through its vibrant festivals and grassroots artistic movements."
+    },
+    {
+        "id": "BZ",
+        "flag": "🇧🇿",
+        "name": { "value": "Belize", "difficulty": 2 },
+        "capital": { "value": "Belmopan", "difficulty": 3 },
+        "largestCity": { "value": "Belize City", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Belize Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌳 The jungle beats are so wild, even the toucans have a secret dance!",
+            "🌊 The Great Blue Hole is so mysterious, it might hide a mermaid's tea party!",
+            "🦎 Reptiles roam freely—maybe they're on a quest for the perfect sunbathing spot!"
+        ],
+        "areaSquareKm": 22966,
+        "nationalAnimal": "Baird's Tapir",
+        "climate": "Tropical",
+        "summary": "Belize celebrates its incredible cultural diversity with Garifuna, Maya, Creole, and Mestizo traditions harmoniously coexisting. The nation's rich heritage thrives through punta music, vibrant dances, and traditional crafts. Belizeans pride themselves on their environmental stewardship and welcoming, community-oriented lifestyle."
+    },
+    {
+        "id": "CA",
+        "flag": "🇨🇦",
+        "name": { "value": "Canada", "difficulty": 2 },
+        "capital": { "value": "Ottawa", "difficulty": 3 },
+        "largestCity": { "value": "Toronto", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "French"], "difficulty": 2 },
+        "currency": { "value": "Canadian Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🍁 They say the maple syrup flows in rivers—maybe that's why the moose wander with extra pep!",
+            "🏒 Ice hockey is practically a national religion; even the geese honk in rhythm!",
+            "🐻 Bears and humans share a love for the great outdoors, but only one knows how to say 'eh!'"
+        ],
+        "areaSquareKm": 9984670,
+        "nationalAnimal": "North American Beaver",
+        "climate": "Varied",
+        "summary": "Renowned for its breathtaking wilderness and progressive values, Canada embraces diversity with open arms. From indigenous heritage to immigrant contributions, the cultural tapestry shines through art, literature, and internationally acclaimed festivals, all while maintaining a reputation for extraordinary politeness and community spirit."
+    },
+    {
+        "id": "CR",
+        "flag": "🇨🇷",
+        "name": { "value": "Costa Rica", "difficulty": 2 },
+        "capital": { "value": "San José", "difficulty": 3 },
+        "largestCity": { "value": "San José", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Costa Rican Colón", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌋 Volcanoes pop up like unexpected party crashers—always ready to light up the sky!",
+            "🐒 Monkeys swing by for a visit—they're the unofficial tour guides of the jungle!",
+            "🌿 Pura Vida isn't just a saying—it's a lifestyle, as breezy as a rainforest vibe!"
+        ],
+        "areaSquareKm": 51100,
+        "nationalAnimal": "Yigüirro",
+        "climate": "Tropical",
+        "summary": "Pioneers of eco-tourism and sustainability, Costa Ricans embrace their 'Pura Vida' philosophy with genuine contentment. Having disbanded their military in 1949, this peaceful nation invests instead in education and environmental protection, fostering one of Latin America's most stable democracies and creating a harmonious balance between human progress and natural conservation."
+    },
+    {
+        "id": "CU",
+        "flag": "🇨🇺",
+        "name": { "value": "Cuba", "difficulty": 3 },
+        "capital": { "value": "Havana", "difficulty": 2 },
+        "largestCity": { "value": "Havana", "difficulty": 2 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Cuban Peso", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🎷 Cuban streets groove to the rhythm of salsa—every corner might host an impromptu dance-off!",
+            "🚬 Cigars so famous, even the palm trees seem to puff in admiration!",
+            "🚲 Vintage cars rule the roads; every traffic jam is like a retro parade!"
+        ],
+        "areaSquareKm": 109884,
+        "nationalAnimal": "Cuban Trogon",
+        "climate": "Tropical",
+        "summary": "Cuba's vibrant spirit resonates through its revolutionary history, world-class arts, and exceptional healthcare system. The island pulsates with the passionate beats of son, rumba, and mambo that birthed modern Latin dance, while its architectural treasures span colonial splendor to modernist innovation, preserved like a living museum of Caribbean cultural evolution."
+    },
+    {
+        "id": "DM",
+        "flag": "🇩🇲",
+        "name": { "value": "Dominica", "difficulty": 2 },
+        "capital": { "value": "Roseau", "difficulty": 3 },
+        "largestCity": { "value": "Roseau", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "East Caribbean Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌋 Known as the 'Nature Island'—volcanoes, rainforests, and waterfalls in one epic adventure!",
+            "🐸 Frogs are the unofficial mascots; even the trees seem to ribbit in delight!",
+            "🏞️ Nature trails that make every hike feel like a walk in a vibrant, living painting!"
+        ],
+        "areaSquareKm": 750,
+        "nationalAnimal": "Sisserou Parrot",
+        "climate": "Tropical",
+        "summary": "Dominica stands as the Caribbean's untamed jewel, preserving indigenous Kalinago heritage alongside pristine ecological wonders. The island champions sustainability through renewable energy initiatives and innovative conservation programs, creating a haven where ancient traditions harmonize with forward-thinking environmental stewardship."
+    },
+    {
+        "id": "DO",
+        "flag": "🇩🇴",
+        "name": { "value": "Dominican Republic", "difficulty": 2 },
+        "capital": { "value": "Santo Domingo", "difficulty": 3 },
+        "largestCity": { "value": "Santo Domingo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Dominican Peso", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🎉 Merengue rhythms fill the streets—every day is a spontaneous dance-off!",
+            "🍫 They produce world-class cocoa; maybe their chocolate inspires extra smiles!",
+            "🌴 Palm trees and beaches set the stage for endless island vibes and cool breezes!"
+        ],
+        "areaSquareKm": 48671,
+        "nationalAnimal": "Palmchat",
+        "climate": "Tropical",
+        "summary": "The Dominican Republic blends Spanish, African, and Taíno influences into a vibrant cultural mosaic. Home to the Americas' first cathedral and university, its rich heritage thrives through distinctive music, passionate baseball tradition, and warm hospitality, creating a nation where historical depth and modern vitality dance together under the Caribbean sun."
+    },
+    {
+        "id": "SV",
+        "flag": "🇸🇻",
+        "name": { "value": "El Salvador", "difficulty": 2 },
+        "capital": { "value": "San Salvador", "difficulty": 3 },
+        "largestCity": { "value": "San Salvador", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "United States Dollar", "difficulty": 2 },
+        "continent": "North America",
+        "funFacts": [
+            "🌋 Volcanoes and coffee are their claim to fame—where every brew might have a volcanic kick!",
+            "🏄 Surf's up almost every day; waves that make every ride a thrilling adventure!",
+            "🎨 Colorful street art turns every city corner into a vibrant gallery!"
+        ],
+        "areaSquareKm": 21041,
+        "nationalAnimal": "Torogoz",
+        "climate": "Tropical",
+        "summary": "El Salvador captivates with its remarkable resilience and creative renaissance. The smallest Central American nation packs outsized cultural punch through distinctive handicrafts, vibrant folk art, and emerging contemporary scenes. Ancient Mayan ruins whisper historical secrets while innovative artists and entrepreneurs forge bold new paths in this determined and dynamic country."
+    },
+    {
+        "id": "GD",
+        "flag": "🇬🇩",
+        "name": { "value": "Grenada", "difficulty": 2 },
+        "capital": { "value": "St. George's", "difficulty": 3 },
+        "largestCity": { "value": "St. George's", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Eastern Caribbean Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌶️ Known as the 'Island of Spice'—their nutmeg could spice up any life story!",
+            "🏝️ With lush rainforests and pristine beaches, every view feels like a nature postcard!",
+            "🎉 Carnival vibes are contagious; even the parrots seem to join in the festivities!"
+        ],
+        "areaSquareKm": 344,
+        "nationalAnimal": "Grenada Dove",
+        "climate": "Tropical",
+        "summary": "Grenada's cultural tapestry weaves African, European, and Indigenous influences into a unique Caribbean identity. The island's warm-hearted people celebrate life through vibrant festivals, traditional storytelling, and community gatherings. Historical landmarks tell tales of resilience, while aromatic spice plantations continue centuries-old traditions that flavor both local cuisine and global kitchens."
+    },
+    {
+        "id": "GT",
+        "flag": "🇬🇹",
+        "name": { "value": "Guatemala", "difficulty": 2 },
+        "capital": { "value": "Guatemala City", "difficulty": 3 },
+        "largestCity": { "value": "Guatemala City", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Guatemalan Quetzal", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🏞️ Ancient ruins and modern vibes collide—every stone tells a story with a side of spice!",
+            "☕ Coffee so rich, it could probably start its own band and headline the jungle jam session!",
+            "🌺 Colorful markets and volcano views—shopping here is like a fiesta for the senses!"
+        ],
+        "areaSquareKm": 108889,
+        "nationalAnimal": "Resplendent Quetzal",
+        "climate": "Varied",
+        "summary": "Guatemala preserves one of the world's most vibrant indigenous cultures, with Maya traditions thriving through textiles, spirituality, and community practices. The country's artistic heritage shines through intricate weaving patterns and colorful folk art, while its literary tradition has produced Nobel Prize-winning poetry, creating a nation where ancient wisdom and creative expression beautifully intertwine."
+    },
+    {
+        "id": "HT",
+        "flag": "🇭🇹",
+        "name": { "value": "Haiti", "difficulty": 2 },
+        "capital": { "value": "Port-au-Prince", "difficulty": 3 },
+        "largestCity": { "value": "Port-au-Prince", "difficulty": 3 },
+        "officialLanguages": { "value": ["French", "Haitian Creole"], "difficulty": 1 },
+        "currency": { "value": "Haitian Gourde", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🎨 Art and culture burst on every street—every wall is a canvas of vibrant stories!",
+            "🥁 The rhythm of Kompa music makes even the streets dance with soulful beats!",
+            "🌴 Tropical vibes meet resilient spirit—every sunset whispers hope and creativity!"
+        ],
+        "areaSquareKm": 27750,
+        "nationalAnimal": "Haitian Trogon",
+        "climate": "Tropical",
+        "summary": "Haiti made history as the world's first Black-led republic and second independent nation in the Americas. Its revolutionary spirit lives on through extraordinary artistic expression, with vibrant paintings, intricate metal sculptures, and innovative music that transforms everyday materials into powerful cultural statements showcasing the Haitian people's legendary creativity and resilience."
+    },
+    {
+        "id": "HN",
+        "flag": "🇭🇳",
+        "name": { "value": "Honduras", "difficulty": 2 },
+        "capital": { "value": "Tegucigalpa", "difficulty": 3 },
+        "largestCity": { "value": "San Pedro Sula", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Honduran Lempira", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌳 Lush rainforests and ancient ruins—every corner whispers secrets of lost civilizations!",
+            "⚽ Soccer fever runs so deep, even the rivers seem to flow with team spirit!",
+            "🏞️ From mountains to beaches, every view is a postcard waiting to be stamped!"
+        ],
+        "areaSquareKm": 112492,
+        "nationalAnimal": "White-tailed Deer",
+        "climate": "Tropical",
+        "summary": "Honduras cradles the magnificent ruins of Copán, a testament to Mayan astronomical genius and artistic mastery. The country's cultural mosaic includes vibrant indigenous communities preserving ancient traditions alongside distinctive Garifuna culture with its mesmerizing music and dance. From cloud forests to coral reefs, Honduras protects extraordinary biodiversity in its impressive national park system."
+    },
+    {
+        "id": "JM",
+        "flag": "🇯🇲",
+        "name": { "value": "Jamaica", "difficulty": 2 },
+        "capital": { "value": "Kingston", "difficulty": 3 },
+        "largestCity": { "value": "Kingston", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Jamaican Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🎶 Reggae beats are the heartbeat of the island—every tune feels like a mini festival!",
+            "🏖️ Beaches so vibrant, even the sand might break out in dance!",
+            "🍹 Rum and coconut water mix to create sunsets as smooth as the island groove!"
+        ],
+        "areaSquareKm": 10991,
+        "nationalAnimal": "Red-billed Streamertail",
+        "climate": "Tropical",
+        "summary": "Jamaica's cultural impact far exceeds its geographical size, gifting the world reggae music, Rastafarian philosophy, and sporting legends. The island's distinctive patois adds rhythmic flair to everyday conversation, while its literary tradition has produced internationally acclaimed authors. From jerk seasoning to Blue Mountain coffee, Jamaican flavors captivate global palates with their bold, unforgettable character."
+    },
+    {
+        "id": "MX",
+        "flag": "🇲🇽",
+        "name": { "value": "Mexico", "difficulty": 2 },
+        "capital": { "value": "Mexico City", "difficulty": 3 },
+        "largestCity": { "value": "Mexico City", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Mexican Peso", "difficulty": 2 },
+        "continent": "North America",
+        "funFacts": [
+            "🌮 Tacos so legendary, even the sombrero might tip itself in salute!",
+            "🎉 Fiesta vibes 24/7—every meal could be a party with enough salsa!",
+            "🪅 Though piñatas originated in China, Mexico perfected them into the colorful celebration staples we know today!"
+        ],
+        "areaSquareKm": 1964375,
+        "nationalAnimal": "Golden Eagle",
+        "climate": "Varied",
+        "summary": "Mexico's cultural legacy spans thousands of years, from Olmec colossal heads to internationally acclaimed contemporary art. The country's cinematic golden age and thriving film industry continue capturing global imagination, while its literary giants have won Nobel Prizes. Mexican innovation extends from ancient calendars to modern scientific breakthroughs, all infused with distinctive artistic flair and philosophical depth."
+    },
+    {
+        "id": "NI",
+        "flag": "🇳🇮",
+        "name": { "value": "Nicaragua", "difficulty": 2 },
+        "capital": { "value": "Managua", "difficulty": 3 },
+        "largestCity": { "value": "Managua", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Nicaraguan Córdoba", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌋 Land of lakes and volcanoes—nature's playground with a fiery twist!",
+            "🏞️ The isletas of Granada turn every boat ride into a mini treasure hunt!",
+            "☕ Coffee culture so rich, every sip might spark an impromptu salsa!"
+        ],
+        "areaSquareKm": 130375,
+        "nationalAnimal": "Jaguar",
+        "climate": "Tropical",
+        "summary": "Nicaragua boasts a rich literary tradition that has produced world-class poets including Rubén Darío, father of the Spanish-American literary movement. The country's vibrant folklore blends indigenous myths with colonial influences, expressed through colorful street festivals and traditional dances. From hammock weaving to distinctive ceramics, Nicaraguan craftsmanship reflects generations of artistic expertise and cultural pride."
+    },
+    {
+        "id": "PA",
+        "flag": "🇵🇦",
+        "name": { "value": "Panama", "difficulty": 2 },
+        "capital": { "value": "Panama City", "difficulty": 3 },
+        "largestCity": { "value": "Panama City", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Panamanian Balboa", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🚢 The Panama Canal is like a water park for ships—every vessel gets a VIP ride!",
+            "🌴 Tropical rainforests meet modern vibes, creating a country with a split personality!",
+            "⛵ Sail away dreams come true; even the canal waves 'hello' to passing boats!"
+        ],
+        "areaSquareKm": 75417,
+        "nationalAnimal": "Harpy Eagle",
+        "climate": "Tropical"
+    },
+    {
+        "id": "KN",
+        "flag": "🇰🇳",
+        "name": { "value": "Saint Kitts and Nevis", "difficulty": 3 },
+        "capital": { "value": "Basseterre", "difficulty": 3 },
+        "largestCity": { "value": "Basseterre", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Eastern Caribbean Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🏝️ Twin islands with double the charm—each has its own quirky story and hidden treasure!",
+            "🍹 Rum flows as freely as island gossip, making every sip a mini celebration!",
+            "🎶 Calypso beats make even the waves seem to groove in harmony!"
+        ],
+        "areaSquareKm": 261,
+        "nationalAnimal": "Vervet Monkey",
+        "climate": "Tropical"
+    },
+    {
+        "id": "LC",
+        "flag": "🇱🇨",
+        "name": { "value": "Saint Lucia", "difficulty": 3 },
+        "capital": { "value": "Castries", "difficulty": 3 },
+        "largestCity": { "value": "Castries", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Eastern Caribbean Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🌋 The iconic Pitons stand guard like legendary duo—nature’s own wonder twins!",
+            "🌺 Island vibes so strong, even the flowers seem to sway to a tropical tune!",
+            "🍍 Pineapple vibes and ocean views make every day feel like a vacation snap!"
+        ],
+        "areaSquareKm": 616,
+        "nationalAnimal": "Saint Lucia Parrot",
+        "climate": "Tropical"
+    },
+    {
+        "id": "VC",
+        "flag": "🇻🇨",
+        "name": { "value": "Saint Vincent and the Grenadines", "difficulty": 3 },
+        "capital": { "value": "Kingstown", "difficulty": 3 },
+        "largestCity": { "value": "Kingstown", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Eastern Caribbean Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🏝️ A stunning archipelago where every island whispers a secret beach tale!",
+            "🌊 Turquoise waters and hidden coves make for the ultimate treasure map!",
+            "🎉 Island parties that even the sea shells would RSVP to if they could!"
+        ],
+        "areaSquareKm": 389,
+        "nationalAnimal": "Saint Vincent Parrot",
+        "climate": "Tropical"
+    },
+    {
+        "id": "TT",
+        "flag": "🇹🇹",
+        "name": { "value": "Trinidad and Tobago", "difficulty": 3 },
+        "capital": { "value": "Port of Spain", "difficulty": 3 },
+        "largestCity": { "value": "San Fernando", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Trinidad and Tobago Dollar", "difficulty": 3 },
+        "continent": "North America",
+        "funFacts": [
+            "🎭 Carnival here is legendary—every street is a stage for dazzling costumes and epic dance-offs!",
+            "🌴 Where steelpan rhythms blend with tropical breezes, creating a symphony of island life!",
+            "🍲 Doubles and roti are so irresistible, they might just start a food revolution on the spot!"
+        ],
+        "areaSquareKm": 5130,
+        "nationalAnimal": "Scarlet Ibis",
+        "climate": "Tropical"
+    },
+    {
+        "id": "US",
+        "flag": "🇺🇸",
+        "name": { "value": "United States", "difficulty": 2 },
+        "capital": { "value": "Washington, D.C.", "difficulty": 3 },
+        "largestCity": { "value": "New York City", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "United States Dollar", "difficulty": 2 },
+        "continent": "North America",
+        "funFacts": [
+            "🗽 The Statue of Liberty might be holding a secret selfie stick—judging by all the poses!",
+            "🍔 Fast food is so iconic, even the hamburgers might start singing Broadway tunes!",
+            "🚀 Dreaming big? They literally sent a man to the moon, then forgot to text back!"
+        ],
+        "areaSquareKm": 9833517,
+        "nationalAnimal": "Bald Eagle",
+        "climate": "Diverse"
+    },
+    {
+        "id": "AR",
+        "flag": "🇦🇷",
+        "name": { "value": "Argentina", "difficulty": 2 },
+        "capital": { "value": "Buenos Aires", "difficulty": 3 },
+        "largestCity": { "value": "Buenos Aires", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Argentine Peso", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🥩 Meat lovers rejoice: their beef is so famous it could star in its own cooking show!",
+            "💃 Tango isn't just a dance; it's practically a national conversation!",
+            "🌄 From Patagonia glaciers to bustling city streets, every corner tells a story of passion and flavor!"
+        ],
+        "areaSquareKm": 2780400,
+        "nationalAnimal": "Hornero",
+        "climate": "Varied"
+    },
+    {
+        "id": "BO",
+        "flag": "🇧🇴",
+        "name": { "value": "Bolivia", "difficulty": 2 },
+        "capital": { "value": "Sucre", "difficulty": 3 },
+        "largestCity": { "value": "Santa Cruz de la Sierra", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish", "Quechua", "Aymara"], "difficulty": 1 },
+        "currency": { "value": "Boliviano", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🌈 Bolivia's flag includes seven colors, making it one of the most colorful national flags in the world!",
+            "🏜️ Salt flats so dazzling, they create mirror-like wonders that defy gravity!",
+            "🦙 Llamas and alpacas roam freely—fashionably fluffy in every herd!"
+        ],
+        "areaSquareKm": 1098581,
+        "nationalAnimal": "Andean Condor",
+        "climate": "Highland & Tropical"
+    },
+    {
+        "id": "BR",
+        "flag": "🇧🇷",
+        "name": { "value": "Brazil", "difficulty": 2 },
+        "capital": { "value": "Brasília", "difficulty": 3 },
+        "largestCity": { "value": "São Paulo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "Brazilian Real", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🌳 The Amazon rainforest is so vast, it practically writes its own epic saga!",
+            "⚽ Soccer is religion—streets are filled with foot-tapping beats and samba rhythms!",
+            "🍹 Carnival bursts with colors, costumes, and confetti—the ultimate annual party!"
+        ],
+        "areaSquareKm": 8515767,
+        "nationalAnimal": "Jaguar",
+        "climate": "Tropical"
+    },
+    {
+        "id": "CL",
+        "flag": "🇨🇱",
+        "name": { "value": "Chile", "difficulty": 2 },
+        "capital": { "value": "Santiago", "difficulty": 3 },
+        "largestCity": { "value": "Santiago", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Chilean Peso", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🏔️ Chile stretches along the coast like a magical ribbon, with mountains that touch the sky!",
+            "🍷 Its wines are so renowned, they could make even a cactus throw a party!",
+            "🌊 Endless surf spots and a rugged coastline where every wave tells a salty tale!"
+        ],
+        "areaSquareKm": 756102,
+        "nationalAnimal": "Andean Condor",
+        "climate": "Mediterranean to Desert"
+    },
+    {
+        "id": "CO",
+        "flag": "🇨🇴",
+        "name": { "value": "Colombia", "difficulty": 2 },
+        "capital": { "value": "Bogotá", "difficulty": 3 },
+        "largestCity": { "value": "Bogotá", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Colombian Peso", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "☕ Coffee here is so legendary, every cup might wake you up for a salsa dance!",
+            "🎶 Rhythms of cumbia and vallenato turn streets into vibrant dance floors!",
+            "🏞️ Lush landscapes and cultural mosaics make Colombia a treasure trove of surprises!"
+        ],
+        "areaSquareKm": 1141748,
+        "nationalAnimal": "Andean Condor",
+        "climate": "Tropical and Highland"
+    },
+    {
+        "id": "EC",
+        "flag": "🇪🇨",
+        "name": { "value": "Ecuador", "difficulty": 2 },
+        "capital": { "value": "Quito", "difficulty": 3 },
+        "largestCity": { "value": "Guayaquil", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "United States Dollar", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🌋 Nestled on the equator, Ecuador is where volcanic peaks meet equatorial charm!",
+            "🐢 The Galápagos Islands are so unique, even the turtles seem to have their own fan clubs!",
+            "🌿 Biodiversity abounds—nature throws the wildest parties in these untouched lands!"
+        ],
+        "areaSquareKm": 283561,
+        "nationalAnimal": "Galápagos Tortoise",
+        "climate": "Tropical & Highland"
+    },
+    {
+        "id": "GY",
+        "flag": "🇬🇾",
+        "name": { "value": "Guyana", "difficulty": 2 },
+        "capital": { "value": "Georgetown", "difficulty": 3 },
+        "largestCity": { "value": "Georgetown", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Guyanese Dollar", "difficulty": 3 },
+        "continent": "South America",
+        "funFacts": [
+            "🌴 Lush rainforests and winding rivers make Guyana a hidden oasis of natural wonders!",
+            "🦜 Melodious bird calls fill the air—nature’s own symphony in the wild!",
+            "🏞️ Waterfalls and pristine trails invite adventurers to explore an untouched paradise!"
+        ],
+        "areaSquareKm": 214969,
+        "nationalAnimal": "Jaguar",
+        "climate": "Tropical"
+    },
+    {
+        "id": "PY",
+        "flag": "🇵🇾",
+        "name": { "value": "Paraguay", "difficulty": 2 },
+        "capital": { "value": "Asunción", "difficulty": 3 },
+        "largestCity": { "value": "Asunción", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish", "Guarani"], "difficulty": 1 },
+        "currency": { "value": "Guaraní", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🌞 Landlocked but lively—Paraguay brings warmth and spirit without a coastline!",
+            "🎶 Traditional harp tunes and folk rhythms weave tales of ancient legends!",
+            "🏞️ Meandering rivers and vibrant markets reveal hidden gems in every town!"
+        ],
+        "areaSquareKm": 406752,
+        "nationalAnimal": "Jaguar",
+        "climate": "Subtropical"
+    },
+    {
+        "id": "PE",
+        "flag": "🇵🇪",
+        "name": { "value": "Peru", "difficulty": 2 },
+        "capital": { "value": "Lima", "difficulty": 3 },
+        "largestCity": { "value": "Lima", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish", "Quechua", "Aymara"], "difficulty": 1 },
+        "currency": { "value": "Peruvian Sol", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "🗿 Machu Picchu stands as a timeless wonder, whispering secrets of ancient empires!",
+            "🍽️ Culinary delights blend tradition and bold flavors—each meal is a festive feast!",
+            "🎭 Colorful festivals burst with history and joy, turning every street into a celebration!"
+        ],
+        "areaSquareKm": 1285216,
+        "nationalAnimal": "Vicuña",
+        "climate": "Varied"
+    },
+    {
+        "id": "SR",
+        "flag": "🇸🇷",
+        "name": { "value": "Suriname", "difficulty": 2 },
+        "capital": { "value": "Paramaribo", "difficulty": 3 },
+        "largestCity": { "value": "Paramaribo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Dutch"], "difficulty": 1 },
+        "currency": { "value": "Surinamese Dollar", "difficulty": 3 },
+        "continent": "South America",
+        "funFacts": [
+            "🌳 Dense rainforests harbor secrets at every turn—nature’s own mysterious labyrinth!",
+            "🎨 A blend of cultures paints every corner, turning streets into vibrant canvases!",
+            "🏞️ Meandering rivers and lively markets invite you on an unforgettable adventure!"
+        ],
+        "areaSquareKm": 163820,
+        "nationalAnimal": "Jaguar",
+        "climate": "Tropical"
+    },
+    {
+        "id": "UY",
+        "flag": "🇺🇾",
+        "name": { "value": "Uruguay", "difficulty": 2 },
+        "capital": { "value": "Montevideo", "difficulty": 3 },
+        "largestCity": { "value": "Montevideo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Uruguayan Peso", "difficulty": 3 },
+        "continent": "South America",
+        "funFacts": [
+            "🌊 Long Atlantic coastlines deliver beach vibes that make every day feel like a holiday!",
+            "🎶 Candombe rhythms pulse through the streets, inviting spontaneous dance-offs!",
+            "🍖 Barbecue traditions sizzle with flavor, turning every meal into a festive feast!"
+        ],
+        "areaSquareKm": 176215,
+        "nationalAnimal": "Southern Lapwing",
+        "climate": "Temperate"
+    },
+    {
+        "id": "VE",
+        "flag": "🇻🇪",
+        "name": { "value": "Venezuela", "difficulty": 2 },
+        "capital": { "value": "Caracas", "difficulty": 3 },
+        "largestCity": { "value": "Caracas", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Venezuelan Bolívar", "difficulty": 2 },
+        "continent": "South America",
+        "funFacts": [
+            "⛰️ Home to Angel Falls, the world’s tallest waterfall—it’s nature’s grand cascade!",
+            "🎉 Festivals burst with color and rhythm, celebrating life in every heartbeat!",
+            "🌞 From sunny beaches to misty mountains, Venezuela is a dramatic masterpiece of nature!"
+        ],
+        "areaSquareKm": 916445,
+        "nationalAnimal": "Venezuelan Troupial",
+        "climate": "Tropical to Temperate"
+    },
+    {
+        "id": "DZ",
+        "flag": "🇩🇿",
+        "name": { "value": "Algeria", "difficulty": 2 },
+        "capital": { "value": "Algiers", "difficulty": 3 },
+        "largestCity": { "value": "Algiers", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic", "Tamazight"], "difficulty": 2 },
+        "currency": { "value": "Algerian Dinar", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ Vast Sahara deserts make Algeria a canvas of endless golden dunes!",
+            "🌆 Algiers is known as 'Algiers the White' for its brilliant white architecture!",
+            "🍽️ Couscous is a national delight—flavors that dance like desert winds!"
+        ],
+        "areaSquareKm": 2381741,
+        "nationalAnimal": "Fennec Fox",
+        "climate": "Arid and Mediterranean"
+    },
+    {
+        "id": "AO",
+        "flag": "🇦🇴",
+        "name": { "value": "Angola", "difficulty": 2 },
+        "capital": { "value": "Luanda", "difficulty": 3 },
+        "largestCity": { "value": "Luanda", "difficulty": 3 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "Angolan Kwanza", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌅 Luanda's sunsets paint the sky with vivid colors, echoing its vibrant culture!",
+            "🏞️ Expansive savannas and roaming wildlife create a true African adventure!",
+            "🎶 Music and dance pulse in every heartbeat—Angola’s rhythm is contagious!"
+        ],
+        "areaSquareKm": 1246700,
+        "nationalAnimal": "Giraffe",
+        "climate": "Tropical"
+    },
+    {
+        "id": "BJ",
+        "flag": "🇧🇯",
+        "name": { "value": "Benin", "difficulty": 2 },
+        "capital": { "value": "Porto-Novo", "difficulty": 3 },
+        "largestCity": { "value": "Cotonou", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🎭 Birthplace of voodoo—where ancient traditions cast magical spells over the streets!",
+            "🏰 Royal palaces and ancient kingdoms whisper epic tales of a legendary past!",
+            "🌴 Bustling markets burst with colors, turning everyday life into a celebration!"
+        ],
+        "areaSquareKm": 114763,
+        "nationalAnimal": "Leopard",
+        "climate": "Tropical"
+    },
+    {
+        "id": "BW",
+        "flag": "🇧🇼",
+        "name": { "value": "Botswana", "difficulty": 2 },
+        "capital": { "value": "Gaborone", "difficulty": 3 },
+        "largestCity": { "value": "Gaborone", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "Tswana"], "difficulty": 2 },
+        "currency": { "value": "Botswana Pula", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🐘 The Okavango Delta is a water wonderland teeming with wildlife magic!",
+            "🌍 Desert salt pans shimmer like stars on the edge of the wild!",
+            "🎉 Every safari here feels like a grand celebration of nature’s beauty!"
+        ],
+        "areaSquareKm": 581730,
+        "nationalAnimal": "Zebra",
+        "climate": "Semi-arid"
+    },
+    {
+        "id": "BF",
+        "flag": "🇧🇫",
+        "name": { "value": "Burkina Faso", "difficulty": 2 },
+        "capital": { "value": "Ouagadougou", "difficulty": 3 },
+        "largestCity": { "value": "Ouagadougou", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🎨 A vibrant arts scene turns every market corner into a burst of creativity!",
+            "🌞 Endless horizons paint the land in golden, unforgettable memories!",
+            "🥁 Traditional rhythms and festivals keep the spirit alive all year long!"
+        ],
+        "areaSquareKm": 274200,
+        "nationalAnimal": "Lion",
+        "climate": "Sahelian"
+    },
+    {
+        "id": "BI",
+        "flag": "🇧🇮",
+        "name": { "value": "Burundi", "difficulty": 2 },
+        "capital": { "value": "Gitega", "difficulty": 3 },
+        "largestCity": { "value": "Bujumbura", "difficulty": 3 },
+        "officialLanguages": { "value": ["Kirundi", "French", "English"], "difficulty": 2 },
+        "currency": { "value": "Burundian Franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ Rolling hills and shimmering lakes create a picture-perfect landscape!",
+            "🎶 Traditional drum dances echo the heartbeat of this spirited nation!",
+            "🦓 Wildlife and vibrant culture intertwine in a colorful tapestry!"
+        ],
+        "areaSquareKm": 27834,
+        "nationalAnimal": "Sifaka",
+        "climate": "Tropical highland"
+    },
+    {
+        "id": "CV",
+        "flag": "🇨🇻",
+        "name": { "value": "Cape Verde", "difficulty": 2 },
+        "capital": { "value": "Praia", "difficulty": 3 },
+        "largestCity": { "value": "Praia", "difficulty": 3 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "Cape Verdean Escudo", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏝️ A volcanic archipelago where Atlantic breezes kiss every sunlit shore!",
+            "🎶 Soulful Morna melodies carry the tales of island life!",
+            "☀️ Pristine beaches and vibrant culture make every day a tropical dream!"
+        ],
+        "areaSquareKm": 4033,
+        "nationalAnimal": "Tortoise",
+        "climate": "Tropical, arid"
+    },
+    {
+        "id": "CM",
+        "flag": "🇨🇲",
+        "name": { "value": "Cameroon", "difficulty": 2 },
+        "capital": { "value": "Yaoundé", "difficulty": 3 },
+        "largestCity": { "value": "Douala", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "French"], "difficulty": 2 },
+        "currency": { "value": "Central African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌍 Often called 'Africa in miniature' for its stunning diversity!",
+            "🎭 Festivals burst with colors and rhythms that captivate the soul!",
+            "🐒 Abundant wildlife and nature promise endless adventures!"
+        ],
+        "areaSquareKm": 475442,
+        "nationalAnimal": "Roan Antelope",
+        "climate": "Tropical"
+    },
+    {
+        "id": "CF",
+        "flag": "🇨🇫",
+        "name": { "value": "Central African Republic", "difficulty": 2 },
+        "capital": { "value": "Bangui", "difficulty": 3 },
+        "largestCity": { "value": "Bangui", "difficulty": 3 },
+        "officialLanguages": { "value": ["French", "Sango"], "difficulty": 2 },
+        "currency": { "value": "Central African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌳 Dense rainforests and open savannas create a raw, wild charm!",
+            "🎨 A mosaic of cultures paints every village with vibrant art!",
+            "🐾 Roaming wildlife turns every safari into an epic adventure!"
+        ],
+        "areaSquareKm": 622984,
+        "nationalAnimal": "African Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "TD",
+        "flag": "🇹🇩",
+        "name": { "value": "Chad", "difficulty": 2 },
+        "capital": { "value": "N'Djamena", "difficulty": 3 },
+        "largestCity": { "value": "N'Djamena", "difficulty": 3 },
+        "officialLanguages": { "value": ["French", "Arabic"], "difficulty": 2 },
+        "currency": { "value": "Central African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ Vast deserts and shimmering lakes create a rugged masterpiece!",
+            "🐪 Camels and resilient spirits thrive under the blazing Sahara sun!",
+            "🌟 Starry nights in Chad shine like a cosmic light show!"
+        ],
+        "areaSquareKm": 1284000,
+        "nationalAnimal": "Cheetah",
+        "climate": "Arid and semi-arid"
+    },
+    {
+        "id": "KM",
+        "flag": "🇰🇲",
+        "name": { "value": "Comoros", "difficulty": 2 },
+        "capital": { "value": "Moroni", "difficulty": 3 },
+        "largestCity": { "value": "Moroni", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic", "French", "Comorian"], "difficulty": 2 },
+        "currency": { "value": "Comorian Franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏝️ A mesmerizing archipelago where Indian Ocean breezes work their magic!",
+            "🎶 A blend of African, Arab, and French influences fills the air with melody!",
+            "🐢 Underwater adventures reveal a vibrant, colorful carnival beneath the waves!"
+        ],
+        "areaSquareKm": 1862,
+        "nationalAnimal": "Dove",
+        "climate": "Tropical"
+    },
+    {
+        "id": "CG",
+        "flag": "🇨🇬",
+        "name": { "value": "Republic of the Congo", "difficulty": 2 },
+        "capital": { "value": "Brazzaville", "difficulty": 3 },
+        "largestCity": { "value": "Brazzaville", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "Central African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌳 Lush rainforests and winding rivers showcase nature’s bountiful beauty!",
+            "🎨 Vibrant music and dance fill the streets with contagious joy!",
+            "🐒 Every safari here is a thrilling adventure into the wild!"
+        ],
+        "areaSquareKm": 342000,
+        "nationalAnimal": "Gorilla",
+        "climate": "Tropical"
+    },
+    {
+        "id": "CD",
+        "flag": "🇨🇩",
+        "name": { "value": "Democratic Republic of the Congo", "difficulty": 2 },
+        "capital": { "value": "Kinshasa", "difficulty": 3 },
+        "largestCity": { "value": "Kinshasa", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "Congolese Franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌍 Vast rainforests and mighty rivers define this colossal land of wonders!",
+            "🎶 A mosaic of cultures creates an ever-changing tapestry of tradition!",
+            "🦍 Home to majestic gorillas, nature’s living icons of strength!"
+        ],
+        "areaSquareKm": 2345410,
+        "nationalAnimal": "Okapi",
+        "climate": "Tropical"
+    },
+    {
+        "id": "CI",
+        "flag": "🇨🇮",
+        "name": { "value": "Côte d'Ivoire", "difficulty": 2 },
+        "capital": { "value": "Yamoussoukro", "difficulty": 3 },
+        "largestCity": { "value": "Abidjan", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🍫 Famous for its cocoa, every chocolate treat tells a rich story!",
+            "🎶 Rhythms and dance light up the streets in a joyful celebration!",
+            "🌴 Bustling markets and lush landscapes capture West African charm!"
+        ],
+        "areaSquareKm": 322463,
+        "nationalAnimal": "Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "DJ",
+        "flag": "🇩🇯",
+        "name": { "value": "Djibouti", "difficulty": 2 },
+        "capital": { "value": "Djibouti City", "difficulty": 3 },
+        "largestCity": { "value": "Djibouti City", "difficulty": 3 },
+        "officialLanguages": { "value": ["French", "Arabic"], "difficulty": 2 },
+        "currency": { "value": "Djiboutian Franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌊 Positioned at the crossroads of the Red Sea and Gulf of Aden—a strategic gem!",
+            "🏜️ Arid landscapes and salt lakes create surreal, otherworldly vistas!",
+            "⚓ A melting pot of cultures where every breeze whispers vibrant stories!"
+        ],
+        "areaSquareKm": 23200,
+        "nationalAnimal": "Frigatebird",
+        "climate": "Arid"
+    },
+    {
+        "id": "EG",
+        "flag": "🇪🇬",
+        "name": { "value": "Egypt", "difficulty": 2 },
+        "capital": { "value": "Cairo", "difficulty": 3 },
+        "largestCity": { "value": "Cairo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 1 },
+        "currency": { "value": "Egyptian Pound", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🕌 Home to timeless pyramids and pharaohs—a wonder of ancient achievement!",
+            "🐫 Camel rides and bustling bazaars weave a living tapestry of history!",
+            "🌅 Nile sunsets whisper secrets of a civilization that changed the world!"
+        ],
+        "areaSquareKm": 1002450,
+        "nationalAnimal": "Steppe Eagle",
+        "climate": "Arid, Mediterranean"
+    },
+    {
+        "id": "GQ",
+        "flag": "🇬🇶",
+        "name": { "value": "Equatorial Guinea", "difficulty": 2 },
+        "capital": { "value": "Malabo", "difficulty": 3 },
+        "largestCity": { "value": "Bata", "difficulty": 3 },
+        "officialLanguages": { "value": ["Spanish", "French", "Portuguese"], "difficulty": 2 },
+        "currency": { "value": "Central African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌴 Lush tropical islands and dense rainforests offer an exotic adventure!",
+            "🎶 A cultural mosaic where Spanish flair meets African rhythms!",
+            "🌊 Coastal charm and vibrant cities add a surprising twist to tropical life!"
+        ],
+        "areaSquareKm": 28051,
+        "nationalAnimal": "Drongo",
+        "climate": "Tropical"
+    },
+    {
+        "id": "ER",
+        "flag": "🇪🇷",
+        "name": { "value": "Eritrea", "difficulty": 2 },
+        "capital": { "value": "Asmara", "difficulty": 3 },
+        "largestCity": { "value": "Asmara", "difficulty": 3 },
+        "officialLanguages": { "value": ["Tigrinya", "Arabic", "English"], "difficulty": 2 },
+        "currency": { "value": "Eritrean Nakfa", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ Asmara’s Italian colonial charm turns the city into a living museum!",
+            "🌄 Dramatic highlands and plains create a portrait of resilience!",
+            "☕ A rich coffee culture means every cup is a warm, aromatic celebration!"
+        ],
+        "areaSquareKm": 117600,
+        "nationalAnimal": "Mountain Goat",
+        "climate": "Arid to temperate"
+    },
+    {
+        "id": "SZ",
+        "flag": "🇸🇿",
+        "name": { "value": "Eswatini", "difficulty": 2 },
+        "capital": { "value": "Mbabane", "difficulty": 3 },
+        "largestCity": { "value": "Manzini", "difficulty": 3 },
+        "officialLanguages": { "value": ["Swazi", "English"], "difficulty": 2 },
+        "currency": { "value": "Swazi Lilangeni", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "👑 A small kingdom where tradition and modernity dance in perfect harmony!",
+            "🎉 Colorful festivals burst with regal splendor and vibrant energy!",
+            "🌿 Lush landscapes and wildlife reserves make every day feel like a royal retreat!"
+        ],
+        "areaSquareKm": 17364,
+        "nationalAnimal": "Sable Antelope",
+        "climate": "Subtropical"
+    },
+    {
+        "id": "ET",
+        "flag": "🇪🇹",
+        "name": { "value": "Ethiopia", "difficulty": 2 },
+        "capital": { "value": "Addis Ababa", "difficulty": 3 },
+        "largestCity": { "value": "Addis Ababa", "difficulty": 3 },
+        "officialLanguages": { "value": ["Amharic"], "difficulty": 1 },
+        "currency": { "value": "Ethiopian Birr", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ Cradle of humanity—ancient history and rugged landscapes tell timeless tales!",
+            "☕ Coffee is believed to have originated here, turning every sip into a journey through time!",
+            "🎶 Traditional rhythms and festivals showcase Ethiopia’s vibrant, enduring soul!"
+        ],
+        "areaSquareKm": 1104300,
+        "nationalAnimal": "Lion",
+        "climate": "Varied, highland tropical"
+    },
+    {
+        "id": "GA",
+        "flag": "🇬🇦",
+        "name": { "value": "Gabon", "difficulty": 2 },
+        "capital": { "value": "Libreville", "difficulty": 3 },
+        "largestCity": { "value": "Libreville", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "Central African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌳 Dense rainforests and pristine coasts make Gabon a hidden natural gem!",
+            "🐒 Wildlife adventures here are a deep dive into nature’s vibrant secrets!",
+            "🎶 Cultural festivals infuse every corner with creative energy!"
+        ],
+        "areaSquareKm": 267667,
+        "nationalAnimal": "Mandrill",
+        "climate": "Tropical"
+    },
+    {
+        "id": "GM",
+        "flag": "🇬🇲",
+        "name": { "value": "The Gambia", "difficulty": 2 },
+        "capital": { "value": "Banjul", "difficulty": 3 },
+        "largestCity": { "value": "Serekunda", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Dalasi", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ The smallest mainland country with a big heart and vibrant culture!",
+            "🌊 The winding Gambia River infuses every community with life!",
+            "🎶 Music and storytelling make every day a lively celebration!"
+        ],
+        "areaSquareKm": 11295,
+        "nationalAnimal": "African Fish Eagle",
+        "climate": "Sahelian"
+    },
+    {
+        "id": "GH",
+        "flag": "🇬🇭",
+        "name": { "value": "Ghana", "difficulty": 2 },
+        "capital": { "value": "Accra", "difficulty": 3 },
+        "largestCity": { "value": "Accra", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Ghanaian Cedi", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🎉 A rich history and vibrant festivals make Ghana a cultural powerhouse!",
+            "🏰 Ancient forts and coastal castles whisper epic tales of the past!",
+            "🌴 Bustling markets and warm beaches create an unforgettable tapestry of life!"
+        ],
+        "areaSquareKm": 238533,
+        "nationalAnimal": "Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "GN",
+        "flag": "🇬🇳",
+        "name": { "value": "Guinea", "difficulty": 2 },
+        "capital": { "value": "Conakry", "difficulty": 3 },
+        "largestCity": { "value": "Conakry", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "Guinean Franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌋 Rolling landscapes and lush forests stage nature’s dramatic performance!",
+            "🎶 Music and dance echo in every town, celebrating life with joy!",
+            "🏞️ Every sunrise here paints a masterpiece across the horizon!"
+        ],
+        "areaSquareKm": 245857,
+        "nationalAnimal": "Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "GW",
+        "flag": "🇬🇼",
+        "name": { "value": "Guinea-Bissau", "difficulty": 2 },
+        "capital": { "value": "Bissau", "difficulty": 3 },
+        "largestCity": { "value": "Bissau", "difficulty": 3 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏝️ A mosaic of islands and coastal beauty—each beach has its own secret tale!",
+            "🎨 Vibrant traditions and lively music create a colorful atmosphere!",
+            "🌅 Atlantic breezes and bustling markets make every moment a celebration!"
+        ],
+        "areaSquareKm": 36125,
+        "nationalAnimal": "Guinea Fowl",
+        "climate": "Tropical"
+    },
+    {
+        "id": "KE",
+        "flag": "🇰🇪",
+        "name": { "value": "Kenya", "difficulty": 2 },
+        "capital": { "value": "Nairobi", "difficulty": 3 },
+        "largestCity": { "value": "Nairobi", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "Swahili"], "difficulty": 2 },
+        "currency": { "value": "Kenyan Shilling", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🦁 Land of safaris where majestic wildlife roams in glorious splendor!",
+            "🌄 The Great Rift Valley and vast plains offer epic natural spectacles!",
+            "🎶 A rich cultural tapestry makes every day vibrate with energy!"
+        ],
+        "areaSquareKm": 580367,
+        "nationalAnimal": "Lion",
+        "climate": "Tropical to arid"
+    },
+    {
+        "id": "LS",
+        "flag": "🇱🇸",
+        "name": { "value": "Lesotho", "difficulty": 2 },
+        "capital": { "value": "Maseru", "difficulty": 3 },
+        "largestCity": { "value": "Maseru", "difficulty": 3 },
+        "officialLanguages": { "value": ["Sesotho", "English"], "difficulty": 2 },
+        "currency": { "value": "Lesotho Loti", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏔️ A high-altitude kingdom where majestic mountains reign supreme!",
+            "🎨 Rich traditions transform every festival into a sky-high celebration!",
+            "🌄 Breathtaking landscapes make each day a picturesque adventure!"
+        ],
+        "areaSquareKm": 30355,
+        "nationalAnimal": "Mountain Zebra",
+        "climate": "Temperate"
+    },
+    {
+        "id": "LR",
+        "flag": "🇱🇷",
+        "name": { "value": "Liberia", "difficulty": 2 },
+        "capital": { "value": "Monrovia", "difficulty": 3 },
+        "largestCity": { "value": "Monrovia", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Liberian Dollar", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌴 Founded by freed American slaves, Liberia's story is uniquely inspiring!",
+            "🏞️ Lush rainforests and a sparkling coast promise endless adventures!",
+            "🎶 Traditional rhythms echo the resilient heartbeat of its people!"
+        ],
+        "areaSquareKm": 111369,
+        "nationalAnimal": "Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "LY",
+        "flag": "🇱🇾",
+        "name": { "value": "Libya", "difficulty": 2 },
+        "capital": { "value": "Tripoli", "difficulty": 3 },
+        "largestCity": { "value": "Tripoli", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 1 },
+        "currency": { "value": "Libyan Dinar", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ Vast deserts and ancient ruins reveal a land steeped in mystery!",
+            "🌅 Sun-drenched landscapes turn every sunset into an epic scene!",
+            "🏛️ Greek and Roman relics whisper stories of long-forgotten civilizations!"
+        ],
+        "areaSquareKm": 1759540,
+        "nationalAnimal": "Camel",
+        "climate": "Arid"
+    },
+    {
+        "id": "MG",
+        "flag": "🇲🇬",
+        "name": { "value": "Madagascar", "difficulty": 2 },
+        "capital": { "value": "Antananarivo", "difficulty": 3 },
+        "largestCity": { "value": "Antananarivo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Malagasy", "French"], "difficulty": 2 },
+        "currency": { "value": "Malagasy Ariary", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🐒 Home to quirky lemurs—each tree may hide a playful, bushy-tailed friend!",
+            "🌳 Unique flora and fauna found nowhere else make Madagascar a natural wonder!",
+            "🌊 Baobab avenues and pristine beaches form a breathtaking island mosaic!"
+        ],
+        "areaSquareKm": 587041,
+        "nationalAnimal": "Lemur",
+        "climate": "Tropical"
+    },
+    {
+        "id": "MW",
+        "flag": "🇲🇼",
+        "name": { "value": "Malawi", "difficulty": 2 },
+        "capital": { "value": "Lilongwe", "difficulty": 3 },
+        "largestCity": { "value": "Blantyre", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "Chichewa"], "difficulty": 2 },
+        "currency": { "value": "Malawian Kwacha", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ Known as the 'Warm Heart of Africa'—its people light up every corner!",
+            "🌊 Lake Malawi is so vast, it feels like a freshwater universe!",
+            "🎶 Traditional tunes and dances create a vibrant cultural mosaic!"
+        ],
+        "areaSquareKm": 118484,
+        "nationalAnimal": "African Fish Eagle",
+        "climate": "Tropical"
+    },
+    {
+        "id": "ML",
+        "flag": "🇲🇱",
+        "name": { "value": "Mali", "difficulty": 2 },
+        "capital": { "value": "Bamako", "difficulty": 3 },
+        "largestCity": { "value": "Bamako", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ From Sahara dunes to ancient Timbuktu, Mali is steeped in epic tales!",
+            "🎶 Soulful kora tunes echo across vast, storied landscapes!",
+            "🌅 Sunsets over the Niger River create moments of breathtaking beauty!"
+        ],
+        "areaSquareKm": 1240192,
+        "nationalAnimal": "Lion",
+        "climate": "Arid to semi-arid"
+    },
+    {
+        "id": "MR",
+        "flag": "🇲🇷",
+        "name": { "value": "Mauritania", "difficulty": 2 },
+        "capital": { "value": "Nouakchott", "difficulty": 3 },
+        "largestCity": { "value": "Nouakchott", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 1 },
+        "currency": { "value": "Mauritanian Ouguiya", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ A Sahara kingdom where dunes and dreams stretch as far as the eye can see!",
+            "🌅 Desert sunsets here whisper ancient secrets in golden hues!",
+            "🐪 Nomadic traditions and camel caravans paint a timeless desert saga!"
+        ],
+        "areaSquareKm": 1030700,
+        "nationalAnimal": "Camel",
+        "climate": "Arid"
+    },
+    {
+        "id": "MU",
+        "flag": "🇲🇺",
+        "name": { "value": "Mauritius", "difficulty": 2 },
+        "capital": { "value": "Port Louis", "difficulty": 3 },
+        "largestCity": { "value": "Port Louis", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "French"], "difficulty": 2 },
+        "currency": { "value": "Mauritian Rupee", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏝️ A tropical paradise where pristine beaches and coral reefs dazzle the eyes!",
+            "🌺 Multicultural vibes make every festival a burst of color and joy!",
+            "🍹 Island life here is so laid-back, even the coconuts seem to chill out!"
+        ],
+        "areaSquareKm": 2040,
+        "nationalAnimal": "Dodo (extinct)",
+        "climate": "Tropical"
+    },
+    {
+        "id": "MA",
+        "flag": "🇲🇦",
+        "name": { "value": "Morocco", "difficulty": 2 },
+        "capital": { "value": "Rabat", "difficulty": 3 },
+        "largestCity": { "value": "Casablanca", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic", "Berber"], "difficulty": 2 },
+        "currency": { "value": "Moroccan Dirham", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ Bustling souks and ancient medinas weave a magical tapestry of life!",
+            "🌄 The Atlas Mountains offer epic adventures and breathtaking views!",
+            "🍵 Mint tea and tagine feasts serve up a delicious taste of tradition!"
+        ],
+        "areaSquareKm": 446550,
+        "nationalAnimal": "Barbary Lion",
+        "climate": "Mediterranean to desert"
+    },
+    {
+        "id": "MZ",
+        "flag": "🇲🇿",
+        "name": { "value": "Mozambique", "difficulty": 2 },
+        "capital": { "value": "Maputo", "difficulty": 3 },
+        "largestCity": { "value": "Maputo", "difficulty": 3 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "Mozambican Metical", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌊 Stunning beaches and vibrant coral reefs make it a tropical dream!",
+            "🎶 Afro-Portuguese rhythms set every street ablaze with energy!",
+            "🏞️ Lush national parks and lively markets promise endless adventures!"
+        ],
+        "areaSquareKm": 801590,
+        "nationalAnimal": "Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "NA",
+        "flag": "🇳🇦",
+        "name": { "value": "Namibia", "difficulty": 2 },
+        "capital": { "value": "Windhoek", "difficulty": 3 },
+        "largestCity": { "value": "Windhoek", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Namibian Dollar", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ The surreal landscapes of the Namib Desert look like scenes from another planet!",
+            "🦒 Abundant wildlife roams under vast, endless skies!",
+            "🌟 Starry nights here are so clear, they seem almost magical!"
+        ],
+        "areaSquareKm": 824292,
+        "nationalAnimal": "Oryx",
+        "climate": "Arid"
+    },
+    {
+        "id": "NE",
+        "flag": "🇳🇪",
+        "name": { "value": "Niger", "difficulty": 2 },
+        "capital": { "value": "Niamey", "difficulty": 3 },
+        "largestCity": { "value": "Niamey", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ Expansive desert landscapes create a majestic sea of golden dunes!",
+            "🌞 Scorching days and cool nights craft a land of breathtaking extremes!",
+            "🐪 Nomadic traditions and camel caravans weave epic Sahara tales!"
+        ],
+        "areaSquareKm": 1267000,
+        "nationalAnimal": "Camel",
+        "climate": "Arid"
+    },
+    {
+        "id": "NG",
+        "flag": "🇳🇬",
+        "name": { "value": "Nigeria", "difficulty": 2 },
+        "capital": { "value": "Abuja", "difficulty": 3 },
+        "largestCity": { "value": "Lagos", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Naira", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🎉 Nollywood and bustling markets make Nigeria pulse with creative energy!",
+            "🌆 Lagos is a megacity where dreams and rhythms collide on every corner!",
+            "🥁 Music, art, and resilience define a nation that’s endlessly dynamic!"
+        ],
+        "areaSquareKm": 923768,
+        "nationalAnimal": "Eagle",
+        "climate": "Tropical"
+    },
+    {
+        "id": "RW",
+        "flag": "🇷🇼",
+        "name": { "value": "Rwanda", "difficulty": 2 },
+        "capital": { "value": "Kigali", "difficulty": 3 },
+        "largestCity": { "value": "Kigali", "difficulty": 3 },
+        "officialLanguages": { "value": ["Kinyarwanda", "English", "French", "Swahili"], "difficulty": 2 },
+        "currency": { "value": "Rwandan Franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🦍 The land of a thousand hills is home to majestic mountain gorillas!",
+            "🌄 Lush landscapes and vibrant culture paint a picture of renewal!",
+            "🎨 Art and tradition merge to create a mosaic of hope and beauty!"
+        ],
+        "areaSquareKm": 26338,
+        "nationalAnimal": "Mountain Gorilla",
+        "climate": "Tropical highland"
+    },
+    {
+        "id": "ST",
+        "flag": "🇸🇹",
+        "name": { "value": "Sao Tome and Principe", "difficulty": 2 },
+        "capital": { "value": "São Tomé", "difficulty": 3 },
+        "largestCity": { "value": "São Tomé", "difficulty": 3 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "Dobra", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏝️ A tiny island nation with a big personality and lush, verdant landscapes!",
+            "🌊 Pristine beaches and crystal-clear waters make every day a slice of paradise!",
+            "🎶 Cultural rhythms and warm smiles create an unforgettable island vibe!"
+        ],
+        "areaSquareKm": 964,
+        "nationalAnimal": "Tortoise",
+        "climate": "Tropical"
+    },
+    {
+        "id": "SN",
+        "flag": "🇸🇳",
+        "name": { "value": "Senegal", "difficulty": 2 },
+        "capital": { "value": "Dakar", "difficulty": 3 },
+        "largestCity": { "value": "Dakar", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🎶 West African beats and vibrant street art make every day a celebration!",
+            "🌅 Coastal charm and lively markets infuse Dakar with boundless energy!",
+            "🏞️ Diverse landscapes—from the Sahel to lush forests—tell captivating stories!"
+        ],
+        "areaSquareKm": 196722,
+        "nationalAnimal": "Lion",
+        "climate": "Tropical, Sahelian"
+    },
+    {
+        "id": "SC",
+        "flag": "🇸🇨",
+        "name": { "value": "Seychelles", "difficulty": 2 },
+        "capital": { "value": "Victoria", "difficulty": 3 },
+        "largestCity": { "value": "Victoria", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "French", "Seychellois Creole"], "difficulty": 2 },
+        "currency": { "value": "Seychellois Rupee", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏝️ A breathtaking archipelago where every island is a tropical slice of heaven!",
+            "🐢 Vibrant coral reefs and marine life create an underwater world of wonder!",
+            "🌺 Lush flora and serene beaches make every day feel like a blissful getaway!"
+        ],
+        "areaSquareKm": 455,
+        "nationalAnimal": "Aldabra Giant Tortoise",
+        "climate": "Tropical"
+    },
+    {
+        "id": "SL",
+        "flag": "🇸🇱",
+        "name": { "value": "Sierra Leone", "difficulty": 2 },
+        "capital": { "value": "Freetown", "difficulty": 3 },
+        "largestCity": { "value": "Freetown", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Leone", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ Lush landscapes and rugged coastlines form a dramatic natural canvas!",
+            "🎶 Traditional music and ocean whispers turn every moment into poetry!",
+            "🌅 Fiery sunsets over the Atlantic paint the sky in vivid hues!"
+        ],
+        "areaSquareKm": 71740,
+        "nationalAnimal": "African Leopard",
+        "climate": "Tropical"
+    },
+    {
+        "id": "SO",
+        "flag": "🇸🇴",
+        "name": { "value": "Somalia", "difficulty": 2 },
+        "capital": { "value": "Mogadishu", "difficulty": 3 },
+        "largestCity": { "value": "Mogadishu", "difficulty": 3 },
+        "officialLanguages": { "value": ["Somali", "Arabic"], "difficulty": 2 },
+        "currency": { "value": "Somali Shilling", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌊 With a vast Indian Ocean coastline, Somalia’s beaches are wild and free!",
+            "🏜️ Arid landscapes and ancient trade routes echo tales of a storied past!",
+            "🎶 Traditional poetry and music keep the Somali spirit vibrantly alive!"
+        ],
+        "areaSquareKm": 637657,
+        "nationalAnimal": "Ostrich",
+        "climate": "Arid, semi-arid"
+    },
+    {
+        "id": "ZA",
+        "flag": "🇿🇦",
+        "name": { "value": "South Africa", "difficulty": 2 },
+        "capital": { "value": "Pretoria", "difficulty": 3 },
+        "largestCity": { "value": "Johannesburg", "difficulty": 3 },
+        "officialLanguages": { "value": ["Afrikaans", "English", "Zulu", "Xhosa"], "difficulty": 3 },
+        "currency": { "value": "South African Rand", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌍 A rainbow nation where diverse cultures create a vibrant mosaic of life!",
+            "🦁 Safari adventures unveil majestic wildlife in their natural splendor!",
+            "🏖️ From rugged coastlines to towering mountains, nature inspires awe at every turn!"
+        ],
+        "areaSquareKm": 1221037,
+        "nationalAnimal": "Springbok",
+        "climate": "Varied"
+    },
+    {
+        "id": "SS",
+        "flag": "🇸🇸",
+        "name": { "value": "South Sudan", "difficulty": 2 },
+        "capital": { "value": "Juba", "difficulty": 3 },
+        "largestCity": { "value": "Juba", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "South Sudanese Pound", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌅 A young nation with a resilient spirit, painting hope across vast savannas!",
+            "🏞️ Expansive grasslands and winding rivers create a raw, untamed landscape!",
+            "🎶 Rich cultural traditions and community bonds light up every corner with joy!"
+        ],
+        "areaSquareKm": 619745,
+        "nationalAnimal": "Nile Lechwe",
+        "climate": "Tropical savanna"
+    },
+    {
+        "id": "SD",
+        "flag": "🇸🇩",
+        "name": { "value": "Sudan", "difficulty": 2 },
+        "capital": { "value": "Khartoum", "difficulty": 3 },
+        "largestCity": { "value": "Khartoum", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic", "English"], "difficulty": 2 },
+        "currency": { "value": "Sudanese Pound", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏜️ Expansive deserts and ancient pyramids reveal a land of timeless marvels!",
+            "🌅 The Nile weaves stories of civilization along its historic banks!",
+            "🎨 Rich traditions and crafts create a vibrant tapestry of heritage and art!"
+        ],
+        "areaSquareKm": 1861484,
+        "nationalAnimal": "Camel",
+        "climate": "Arid to semi-arid"
+    },
+    {
+        "id": "TZ",
+        "flag": "🇹🇿",
+        "name": { "value": "Tanzania", "difficulty": 2 },
+        "capital": { "value": "Dodoma", "difficulty": 3 },
+        "largestCity": { "value": "Dar es Salaam", "difficulty": 3 },
+        "officialLanguages": { "value": ["Swahili", "English"], "difficulty": 2 },
+        "currency": { "value": "Tanzanian Shilling", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🦒 Home to the Serengeti, where epic wildlife migrations create natural spectacles!",
+            "⛰️ Mount Kilimanjaro towers as Africa's highest peak—a majestic challenge!",
+            "🌄 Diverse landscapes and vibrant cultures make Tanzania a true natural wonder!"
+        ],
+        "areaSquareKm": 945087,
+        "nationalAnimal": "Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "TG",
+        "flag": "🇹🇬",
+        "name": { "value": "Togo", "difficulty": 2 },
+        "capital": { "value": "Lomé", "difficulty": 3 },
+        "largestCity": { "value": "Lomé", "difficulty": 3 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "West African CFA franc", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏖️ Coastal charm and bustling markets make Lomé a delightful blend of old and new!",
+            "🎶 Rich musical traditions turn every street into a rhythmic celebration!",
+            "🌿 Lush landscapes and friendly smiles create a welcoming, vibrant vibe!"
+        ],
+        "areaSquareKm": 56785,
+        "nationalAnimal": "Antelope",
+        "climate": "Tropical"
+    },
+    {
+        "id": "TN",
+        "flag": "🇹🇳",
+        "name": { "value": "Tunisia", "difficulty": 2 },
+        "capital": { "value": "Tunis", "difficulty": 3 },
+        "largestCity": { "value": "Tunis", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 1 },
+        "currency": { "value": "Tunisian Dinar", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏺 Ancient ruins and Mediterranean breezes make Tunisia a timeless crossroads of culture!",
+            "🏜️ Desert adventures and coastal escapes create a perfect blend of contrasts!",
+            "🍽️ Couscous feasts and mint tea moments serve up a delicious taste of tradition!"
+        ],
+        "areaSquareKm": 163610,
+        "nationalAnimal": "Fennec Fox",
+        "climate": "Mediterranean, arid"
+    },
+    {
+        "id": "UG",
+        "flag": "🇺🇬",
+        "name": { "value": "Uganda", "difficulty": 2 },
+        "capital": { "value": "Kampala", "difficulty": 3 },
+        "largestCity": { "value": "Kampala", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "Swahili"], "difficulty": 2 },
+        "currency": { "value": "Ugandan Shilling", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🦍 The land of a thousand hills is home to majestic mountain gorillas!",
+            "🌳 Lush landscapes and sprawling savannas make every safari breathtaking!",
+            "🎶 Rich cultural tapestries and warm smiles create a heartwarming destination!"
+        ],
+        "areaSquareKm": 241038,
+        "nationalAnimal": "Grey Crowned Crane",
+        "climate": "Tropical"
+    },
+    {
+        "id": "ZM",
+        "flag": "🇿🇲",
+        "name": { "value": "Zambia", "difficulty": 2 },
+        "capital": { "value": "Lusaka", "difficulty": 3 },
+        "largestCity": { "value": "Lusaka", "difficulty": 3 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Zambian Kwacha", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🌊 Victoria Falls roars on the border—a majestic wonder of nature!",
+            "🐘 Safari adventures reveal an untamed world of incredible wildlife!",
+            "🎶 Rich traditions and vibrant communities fill every moment with joy!"
+        ],
+        "areaSquareKm": 752612,
+        "nationalAnimal": "African Fish Eagle",
+        "climate": "Tropical, subtropical"
+    },
+    {
+        "id": "ZW",
+        "flag": "🇿🇼",
+        "name": { "value": "Zimbabwe", "difficulty": 2 },
+        "capital": { "value": "Harare", "difficulty": 3 },
+        "largestCity": { "value": "Harare", "difficulty": 3 },
+        "officialLanguages": { "value": ["English", "Shona", "Ndebele"], "difficulty": 2 },
+        "currency": { "value": "Zimbabwean Dollar", "difficulty": 2 },
+        "continent": "Africa",
+        "funFacts": [
+            "🏞️ Ancient ruins and natural wonders whisper epic stories of a storied land!",
+            "🦁 Wildlife-rich parks offer unforgettable safari adventures!",
+            "🎨 Vibrant art and spirited culture infuse every corner with creative energy!"
+        ],
+        "areaSquareKm": 390757,
+        "nationalAnimal": "Sable Antelope",
+        "climate": "Tropical to subtropical"
+    },
+    {
+        "id": "AL",
+        "flag": "🇦🇱",
+        "name": { "value": "Albania", "difficulty": 2 },
+        "capital": { "value": "Tirana", "difficulty": 3 },
+        "largestCity": { "value": "Tirana", "difficulty": 3 },
+        "officialLanguages": { "value": ["Albanian"], "difficulty": 2 },
+        "currency": { "value": "Albanian Lek", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏞️ The Albanian Riviera sparkles so bright, even the fish 🐟 wear sunglasses!",
+            "🏰 Over 150 castles—because who doesn’t love a good medieval sleepover?",
+            "🍲 Their food’s so tasty, even the goats 🐐 beg for leftovers!"
+        ],
+        "areaSquareKm": 28748,
+        "nationalAnimal": "Golden Eagle",
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "AD",
+        "flag": "🇦🇩",
+        "name": { "value": "Andorra", "difficulty": 3 },
+        "capital": { "value": "Andorra la Vella", "difficulty": 4 },
+        "largestCity": { "value": "Andorra la Vella", "difficulty": 4 },
+        "officialLanguages": { "value": ["Catalan"], "difficulty": 3 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "⛰️ So tiny yet so high, even the clouds ☁️ stop by for tea!",
+            "🎿 Ski slopes so epic, the snowflakes ❄️ throw their own parties!",
+            "🏰 A principality with two princes—talk about double the royal fun!"
+        ],
+        "areaSquareKm": 468,
+        "nationalAnimal": null,
+        "climate": "Temperate; snowy winters, warm summers"
+    },
+    {
+        "id": "AT",
+        "flag": "🇦🇹",
+        "name": { "value": "Austria", "difficulty": 1 },
+        "capital": { "value": "Vienna", "difficulty": 1 },
+        "largestCity": { "value": "Vienna", "difficulty": 1 },
+        "officialLanguages": { "value": ["German"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🎻 Mozart and Strauss threw the best musical parties 🎉 in Vienna!",
+            "🏔️ The Alps are so stunning, even the cows 🐄 yodel!",
+            "🍰 Sachertorte is so divine, it’s basically chocolate royalty 👑!"
+        ],
+        "areaSquareKm": 83871,
+        "nationalAnimal": "Black Eagle",
+        "climate": "Temperate; alpine"
+    },
+    {
+        "id": "BY",
+        "flag": "🇧🇾",
+        "name": { "value": "Belarus", "difficulty": 2 },
+        "capital": { "value": "Minsk", "difficulty": 2 },
+        "largestCity": { "value": "Minsk", "difficulty": 2 },
+        "officialLanguages": { "value": ["Belarusian", "Russian"], "difficulty": 2 },
+        "currency": { "value": "Belarusian Ruble", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌲 Forests so vast, even the squirrels 🐿️ need maps!",
+            "🥔 Potatoes are king—every dish is a spud-tacular adventure!",
+            "🏰 Mir Castle is so cool, it’s basically a time machine to the past!"
+        ],
+        "areaSquareKm": 207600,
+        "nationalAnimal": "European Bison",
+        "climate": "Continental"
+    },
+    {
+        "id": "BE",
+        "flag": "🇧🇪",
+        "name": { "value": "Belgium", "difficulty": 1 },
+        "capital": { "value": "Brussels", "difficulty": 1 },
+        "largestCity": { "value": "Antwerp", "difficulty": 2 },
+        "officialLanguages": { "value": ["Dutch", "French", "German"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🍫 Chocolate so good, even the statues are tempted to take a bite!",
+            "🍟 They invented fries—sorry, France, Belgium’s the real fry king!",
+            "🏰 Bruges looks like a fairy tale, and the swans 🦢 agree!"
+        ],
+        "areaSquareKm": 30528,
+        "nationalAnimal": "Lion",
+        "climate": "Temperate maritime"
+    },
+    {
+        "id": "BA",
+        "flag": "🇧🇦",
+        "name": { "value": "Bosnia and Herzegovina", "difficulty": 3 },
+        "capital": { "value": "Sarajevo", "difficulty": 2 },
+        "largestCity": { "value": "Sarajevo", "difficulty": 2 },
+        "officialLanguages": { "value": ["Bosnian", "Croatian", "Serbian"], "difficulty": 3 },
+        "currency": { "value": "Convertible Mark", "difficulty": 4 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌉 Mostar’s Old Bridge dives into history—literally, people jump off it!",
+            "🏞️ Rivers so clear, even the fish 🐟 wave hello!",
+            "☕ Coffee’s so strong, it’s practically a national sport!"
+        ],
+        "areaSquareKm": 51197,
+        "nationalAnimal": null,
+        "climate": "Continental and Mediterranean"
+    },
+    {
+        "id": "BG",
+        "flag": "🇧🇬",
+        "name": { "value": "Bulgaria", "difficulty": 2 },
+        "capital": { "value": "Sofia", "difficulty": 2 },
+        "largestCity": { "value": "Sofia", "difficulty": 2 },
+        "officialLanguages": { "value": ["Bulgarian"], "difficulty": 2 },
+        "currency": { "value": "Bulgarian Lev", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌹 Rose oil so famous, even the bees 🐝 buzz with pride!",
+            "🏛️ Ancient ruins so cool, you’ll feel like a Roman VIP!",
+            "🥛 Yogurt’s a superstar here—probiotics are practically celebrities!"
+        ],
+        "areaSquareKm": 110994,
+        "nationalAnimal": "Lion",
+        "climate": "Temperate"
+    },
+    {
+        "id": "HR",
+        "flag": "🇭🇷",
+        "name": { "value": "Croatia", "difficulty": 2 },
+        "capital": { "value": "Zagreb", "difficulty": 2 },
+        "largestCity": { "value": "Zagreb", "difficulty": 2 },
+        "officialLanguages": { "value": ["Croatian"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌊 Dalmatian coast so stunning, even the dolphins 🐬 RSVP!",
+            "🏰 Dubrovnik’s walls are so epic, dragons 🐉 would approve!",
+            "🎶 Sea organ plays music with waves—nature’s own DJ!"
+        ],
+        "areaSquareKm": 56594,
+        "nationalAnimal": "Marten",
+        "climate": "Mediterranean and continental"
+    },
+    {
+        "id": "CZ",
+        "flag": "🇨🇿",
+        "name": { "value": "Czech Republic", "difficulty": 2 },
+        "capital": { "value": "Prague", "difficulty": 1 },
+        "largestCity": { "value": "Prague", "difficulty": 1 },
+        "officialLanguages": { "value": ["Czech"], "difficulty": 2 },
+        "currency": { "value": "Czech Koruna", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🍺 Beer so good, it’s basically liquid gold—cheers 🍻!",
+            "🏰 Prague’s castle is so huge, even the ghosts 👻 get lost!",
+            "🌉 Charles Bridge is so pretty, it’s selfie central!"
+        ],
+        "areaSquareKm": 78865,
+        "nationalAnimal": "Double-tailed Lion",
+        "climate": "Temperate continental"
+    },
+    {
+        "id": "DK",
+        "flag": "🇩🇰",
+        "name": { "value": "Denmark", "difficulty": 1 },
+        "capital": { "value": "Copenhagen", "difficulty": 1 },
+        "largestCity": { "value": "Copenhagen", "difficulty": 1 },
+        "officialLanguages": { "value": ["Danish"], "difficulty": 2 },
+        "currency": { "value": "Danish Krone", "difficulty": 2 },
+        "continent": "Europe",
+        "funFacts": [
+            "🚲 Bikes rule the streets—cars are just jealous!",
+            "🧜‍♀️ The Little Mermaid statue is so cute, even the fish 🐟 swoon!",
+            "🎡 Tivoli Gardens is so fun, even the Vikings would’ve queued up!"
+        ],
+        "areaSquareKm": 42931,
+        "nationalAnimal": "Mute Swan",
+        "climate": "Temperate maritime"
+    },
+    {
+        "id": "EE",
+        "flag": "🇪🇪",
+        "name": { "value": "Estonia", "difficulty": 2 },
+        "capital": { "value": "Tallinn", "difficulty": 2 },
+        "largestCity": { "value": "Tallinn", "difficulty": 2 },
+        "officialLanguages": { "value": ["Estonian"], "difficulty": 3 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "📱 So techy, even the trees 🌳 have Wi-Fi!",
+            "🏰 Tallinn’s old town is so magical, it’s basically a fairy tale!",
+            "🎤 They sing their way to freedom—choirs are superheroes here!"
+        ],
+        "areaSquareKm": 45227,
+        "nationalAnimal": "Barn Swallow",
+        "climate": "Temperate"
+    },
+    {
+        "id": "FI",
+        "flag": "🇫🇮",
+        "name": { "value": "Finland", "difficulty": 1 },
+        "capital": { "value": "Helsinki", "difficulty": 1 },
+        "largestCity": { "value": "Helsinki", "difficulty": 1 },
+        "officialLanguages": { "value": ["Finnish", "Swedish"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "❄️ Home of Santa 🎅—reindeer traffic jams are real!",
+            "🌌 Northern Lights so dazzling, even the stars ⭐ clap!",
+            "☕ Coffee obsession so big, they sip it with the moose 🦌!"
+        ],
+        "areaSquareKm": 338424,
+        "nationalAnimal": "Brown Bear",
+        "climate": "Subarctic and temperate"
+    },
+    {
+        "id": "FR",
+        "flag": "🇫🇷",
+        "name": { "value": "France", "difficulty": 1 },
+        "capital": { "value": "Paris", "difficulty": 1 },
+        "largestCity": { "value": "Paris", "difficulty": 1 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🗼 Eiffel Tower sparkles so much, it’s basically Paris’s disco ball!",
+            "🥐 Croissants so flaky, even the pigeons 🕊️ bow down!",
+            "🍷 Wine flows like rivers—cheers to every sunset!"
+        ],
+        "areaSquareKm": 643801,
+        "nationalAnimal": "Gallo-Roman Rooster",
+        "climate": "Temperate"
+    },
+    {
+        "id": "DE",
+        "flag": "🇩🇪",
+        "name": { "value": "Germany", "difficulty": 1 },
+        "capital": { "value": "Berlin", "difficulty": 1 },
+        "largestCity": { "value": "Berlin", "difficulty": 1 },
+        "officialLanguages": { "value": ["German"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🍺 Oktoberfest is so wild, even the pretzels 🥨 dance!",
+            "🏰 Neuschwanstein Castle is so dreamy, it inspired fairy tales!",
+            "🚗 Autobahn has no speed limit—zoom zoom, baby!"
+        ],
+        "areaSquareKm": 357582,
+        "nationalAnimal": "Black Eagle",
+        "climate": "Temperate"
+    },
+    {
+        "id": "GR",
+        "flag": "🇬🇷",
+        "name": { "value": "Greece", "difficulty": 1 },
+        "capital": { "value": "Athens", "difficulty": 1 },
+        "largestCity": { "value": "Athens", "difficulty": 1 },
+        "officialLanguages": { "value": ["Greek"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏛️ Birthplace of democracy—talk about a power move!",
+            "🌊 Santorini’s so gorgeous, even the sunsets blush 🌅!",
+            "🫒 Olives everywhere—trees basically run the show!"
+        ],
+        "areaSquareKm": 131957,
+        "nationalAnimal": "Dolphin",
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "HU",
+        "flag": "🇭🇺",
+        "name": { "value": "Hungary", "difficulty": 2 },
+        "capital": { "value": "Budapest", "difficulty": 1 },
+        "largestCity": { "value": "Budapest", "difficulty": 1 },
+        "officialLanguages": { "value": ["Hungarian"], "difficulty": 3 },
+        "currency": { "value": "Hungarian Forint", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🛁 Thermal baths so relaxing, even the fish 🐟 book spa days!",
+            "🌶️ Paprika’s the spice of life—every dish is a fiery party!",
+            "🏰 Budapest’s bridges are so stunning, they’re basically royalty!"
+        ],
+        "areaSquareKm": 93028,
+        "nationalAnimal": "Turul (mythical bird)",
+        "climate": "Continental"
+    },
+    {
+        "id": "IS",
+        "flag": "🇮🇸",
+        "name": { "value": "Iceland", "difficulty": 2 },
+        "capital": { "value": "Reykjavik", "difficulty": 2 },
+        "largestCity": { "value": "Reykjavik", "difficulty": 2 },
+        "officialLanguages": { "value": ["Icelandic"], "difficulty": 3 },
+        "currency": { "value": "Icelandic Krona", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌋 Volcanoes so active, even the sheep 🐑 wear lava boots!",
+            "💦 Geysers shoot up like nature’s fireworks 🎆!",
+            "🧝‍♂️ Elves are real here—at least the locals say so!"
+        ],
+        "areaSquareKm": 102775,
+        "nationalAnimal": "Gyrfalcon",
+        "climate": "Subarctic"
+    },
+    {
+        "id": "IE",
+        "flag": "🇮🇪",
+        "name": { "value": "Ireland", "difficulty": 1 },
+        "capital": { "value": "Dublin", "difficulty": 1 },
+        "largestCity": { "value": "Dublin", "difficulty": 1 },
+        "officialLanguages": { "value": ["Irish", "English"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🍀 So green, even the leprechauns 🌈 lose their gold in the grass!",
+            "🍺 Guinness flows like rivers—cheers to that!",
+            "🏰 Castles everywhere—medieval vibes are the real VIPs!"
+        ],
+        "areaSquareKm": 70273,
+        "nationalAnimal": "Red Deer",
+        "climate": "Temperate maritime"
+    },
+    {
+        "id": "IT",
+        "flag": "🇮🇹",
+        "name": { "value": "Italy", "difficulty": 1 },
+        "capital": { "value": "Rome", "difficulty": 1 },
+        "largestCity": { "value": "Rome", "difficulty": 1 },
+        "officialLanguages": { "value": ["Italian"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🍝 Pasta’s so perfect, even the forks 🍴 do a happy dance!",
+            "🏛️ Colosseum’s so epic, gladiators still high-five from the past!",
+            "🌋 Vesuvius says hello with a fiery wink!"
+        ],
+        "areaSquareKm": 301340,
+        "nationalAnimal": "Italian Wolf",
+        "climate": "Mediterranean and continental"
+    },
+    {
+        "id": "LV",
+        "flag": "🇱🇻",
+        "name": { "value": "Latvia", "difficulty": 2 },
+        "capital": { "value": "Riga", "difficulty": 2 },
+        "largestCity": { "value": "Riga", "difficulty": 2 },
+        "officialLanguages": { "value": ["Latvian"], "difficulty": 3 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌲 Forests so lush, even the trees 🌳 throw shade!",
+            "🏰 Riga’s old town is so charming, it’s a living postcard!",
+            "🎶 Singing’s their superpower—choirs could wake the bears 🐻!"
+        ],
+        "areaSquareKm": 64559,
+        "nationalAnimal": "White Wagtail",
+        "climate": "Temperate"
+    },
+    {
+        "id": "LI",
+        "flag": "🇱🇮",
+        "name": { "value": "Liechtenstein", "difficulty": 3 },
+        "capital": { "value": "Vaduz", "difficulty": 4 },
+        "largestCity": { "value": "Schaan", "difficulty": 4 },
+        "officialLanguages": { "value": ["German"], "difficulty": 1 },
+        "currency": { "value": "Swiss Franc", "difficulty": 2 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Vaduz Castle is so cool, even the mountains ⛰️ bow down!",
+            "🌍 So tiny, you can walk it in a day—speedy sightseeing!",
+            "⛷️ Skiing’s the vibe—snow’s their glitter!"
+        ],
+        "areaSquareKm": 160,
+        "nationalAnimal": "Kestrel",
+        "climate": "Temperate alpine"
+    },
+    {
+        "id": "LT",
+        "flag": "🇱🇹",
+        "name": { "value": "Lithuania", "difficulty": 2 },
+        "capital": { "value": "Vilnius", "difficulty": 2 },
+        "largestCity": { "value": "Vilnius", "difficulty": 2 },
+        "officialLanguages": { "value": ["Lithuanian"], "difficulty": 3 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Trakai Castle floats like a dream on water!",
+            "🏀 Basketball’s religion here—hoops are holy!",
+            "🌲 Forests so deep, even the wolves 🐺 whisper secrets!"
+        ],
+        "areaSquareKm": 65300,
+        "nationalAnimal": "White Stork",
+        "climate": "Temperate"
+    },
+    {
+        "id": "LU",
+        "flag": "🇱🇺",
+        "name": { "value": "Luxembourg", "difficulty": 2 },
+        "capital": { "value": "Luxembourg City", "difficulty": 2 },
+        "largestCity": { "value": "Luxembourg City", "difficulty": 2 },
+        "officialLanguages": { "value": ["Luxembourgish", "French", "German"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Castles so many, even the knights 🗡️ lost count!",
+            "💰 So rich, even the pigeons strut in gold!",
+            "🌉 Bridges so pretty, they’re basically art galleries!"
+        ],
+        "areaSquareKm": 2586,
+        "nationalAnimal": "Goldcrest",
+        "climate": "Temperate"
+    },
+    {
+        "id": "MT",
+        "flag": "🇲🇹",
+        "name": { "value": "Malta", "difficulty": 2 },
+        "capital": { "value": "Valletta", "difficulty": 3 },
+        "largestCity": { "value": "Birkirkara", "difficulty": 4 },
+        "officialLanguages": { "value": ["Maltese", "English"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Valletta’s so tiny yet so mighty—history in every stone!",
+            "🌊 Crystal waters so clear, even the fish 🐟 take selfies!",
+            "🎬 Hollywood loves it—Knights and pirates party here!"
+        ],
+        "areaSquareKm": 316,
+        "nationalAnimal": "Maltese Wall Lizard",
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "MD",
+        "flag": "🇲🇩",
+        "name": { "value": "Moldova", "difficulty": 3 },
+        "capital": { "value": "Chișinău", "difficulty": 3 },
+        "largestCity": { "value": "Chișinău", "difficulty": 3 },
+        "officialLanguages": { "value": ["Romanian"], "difficulty": 2 },
+        "currency": { "value": "Moldovan Leu", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🍷 Wine cellars so huge, even the grapes 🍇 get lost!",
+            "🌾 So fertile, the soil practically hugs you back!",
+            "🏰 Old Orhei is so ancient, it’s a history buffet!"
+        ],
+        "areaSquareKm": 33846,
+        "nationalAnimal": "Aurochs (extinct)",
+        "climate": "Temperate continental"
+    },
+    {
+        "id": "MC",
+        "flag": "🇲🇨",
+        "name": { "value": "Monaco", "difficulty": 2 },
+        "capital": { "value": "Monaco", "difficulty": 2 },
+        "largestCity": { "value": "Monaco", "difficulty": 2 },
+        "officialLanguages": { "value": ["French"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏎️ Grand Prix so fast, even the seagulls 🐦 cheer!",
+            "💎 So fancy, even the yachts have yachts!",
+            "🎰 Casinos so glam, James Bond would RSVP!"
+        ],
+        "areaSquareKm": 2,
+        "nationalAnimal": null,
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "ME",
+        "flag": "🇲🇪",
+        "name": { "value": "Montenegro", "difficulty": 3 },
+        "capital": { "value": "Podgorica", "difficulty": 3 },
+        "largestCity": { "value": "Podgorica", "difficulty": 3 },
+        "officialLanguages": { "value": ["Montenegrin"], "difficulty": 3 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌊 Kotor Bay’s so stunning, even the mountains ⛰️ take pics!",
+            "🏞️ So wild, the bears 🐻 throw their own parties!",
+            "🏰 Old towns so cool, history’s basically a neighbor!"
+        ],
+        "areaSquareKm": 13812,
+        "nationalAnimal": null,
+        "climate": "Mediterranean and continental"
+    },
+    {
+        "id": "NL",
+        "flag": "🇳🇱",
+        "name": { "value": "Netherlands", "difficulty": 1 },
+        "capital": { "value": "Amsterdam", "difficulty": 1 },
+        "largestCity": { "value": "Amsterdam", "difficulty": 1 },
+        "officialLanguages": { "value": ["Dutch"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌷 Tulips so pretty, even the windmills 🌬️ blush!",
+            "🚲 More bikes than people—pedal power rules!",
+            "🧀 Cheese so good, mice 🐭 book vacations here!"
+        ],
+        "areaSquareKm": 41543,
+        "nationalAnimal": "Lion",
+        "climate": "Temperate maritime"
+    },
+    {
+        "id": "MK",
+        "flag": "🇲🇰",
+        "name": { "value": "North Macedonia", "difficulty": 3 },
+        "capital": { "value": "Skopje", "difficulty": 2 },
+        "largestCity": { "value": "Skopje", "difficulty": 2 },
+        "officialLanguages": { "value": ["Macedonian"], "difficulty": 3 },
+        "currency": { "value": "Macedonian Denar", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏞️ Ohrid Lake’s so old, even the fish 🐟 tell ancient tales!",
+            "🏛️ Statues everywhere—Skopje’s basically an outdoor museum!",
+            "🍇 Wine’s so tasty, the vines throw their own parties!"
+        ],
+        "areaSquareKm": 25713,
+        "nationalAnimal": "Lynx",
+        "climate": "Continental"
+    },
+    {
+        "id": "NO",
+        "flag": "🇳🇴",
+        "name": { "value": "Norway", "difficulty": 1 },
+        "capital": { "value": "Oslo", "difficulty": 1 },
+        "largestCity": { "value": "Oslo", "difficulty": 1 },
+        "officialLanguages": { "value": ["Norwegian"], "difficulty": 2 },
+        "currency": { "value": "Norwegian Krone", "difficulty": 2 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏞️ Fjords so epic, even the Vikings 🛡️ gasped!",
+            "🌌 Northern Lights dance like nature’s rave party!",
+            "🐟 Salmon so fresh, it practically swims to your plate!"
+        ],
+        "areaSquareKm": 323802,
+        "nationalAnimal": "Moose",
+        "climate": "Temperate along coast; subarctic inland"
+    },
+    {
+        "id": "PL",
+        "flag": "🇵🇱",
+        "name": { "value": "Poland", "difficulty": 1 },
+        "capital": { "value": "Warsaw", "difficulty": 1 },
+        "largestCity": { "value": "Warsaw", "difficulty": 1 },
+        "officialLanguages": { "value": ["Polish"], "difficulty": 2 },
+        "currency": { "value": "Polish Zloty", "difficulty": 2 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Castles so many, even the knights 🗡️ lost their keys!",
+            "🥟 Pierogi so yummy, even the plates cheer!",
+            "🌲 Białowieża Forest has bison 🦬 strutting like kings!"
+        ],
+        "areaSquareKm": 312696,
+        "nationalAnimal": "White-tailed Eagle",
+        "climate": "Temperate"
+    },
+    {
+        "id": "PT",
+        "flag": "🇵🇹",
+        "name": { "value": "Portugal", "difficulty": 1 },
+        "capital": { "value": "Lisbon", "difficulty": 1 },
+        "largestCity": { "value": "Lisbon", "difficulty": 1 },
+        "officialLanguages": { "value": ["Portuguese"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌊 Surf’s up in Nazaré—waves so big, even the fish 🐟 duck!",
+            "🍷 Port wine’s so sweet, it’s basically liquid hugs!",
+            "🏰 Sintra’s castles are so magical, unicorns 🦄 might RSVP!"
+        ],
+        "areaSquareKm": 92090,
+        "nationalAnimal": "Iberian Wolf",
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "RO",
+        "flag": "🇷🇴",
+        "name": { "value": "Romania", "difficulty": 2 },
+        "capital": { "value": "Bucharest", "difficulty": 2 },
+        "largestCity": { "value": "Bucharest", "difficulty": 2 },
+        "officialLanguages": { "value": ["Romanian"], "difficulty": 2 },
+        "currency": { "value": "Romanian Leu", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Dracula’s castle is so spooky, even the bats 🦇 RSVP!",
+            "🌲 Carpathians are so wild, bears 🐻 throw picnics!",
+            "🍲 Sarmale so tasty, every cabbage leaf is a VIP!"
+        ],
+        "areaSquareKm": 238397,
+        "nationalAnimal": "Lynx",
+        "climate": "Temperate continental"
+    },
+    {
+        "id": "SM",
+        "flag": "🇸🇲",
+        "name": { "value": "San Marino", "difficulty": 3 },
+        "capital": { "value": "San Marino", "difficulty": 3 },
+        "largestCity": { "value": "Serravalle", "difficulty": 4 },
+        "officialLanguages": { "value": ["Italian"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Three towers so cool, even the clouds ☁️ take selfies!",
+            "🌍 Oldest republic ever—history’s VIP since 301 AD!",
+            "⛰️ So tiny yet so high, the views are pure magic!"
+        ],
+        "areaSquareKm": 61,
+        "nationalAnimal": null,
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "RS",
+        "flag": "🇷🇸",
+        "name": { "value": "Serbia", "difficulty": 2 },
+        "capital": { "value": "Belgrade", "difficulty": 2 },
+        "largestCity": { "value": "Belgrade", "difficulty": 2 },
+        "officialLanguages": { "value": ["Serbian"], "difficulty": 2 },
+        "currency": { "value": "Serbian Dinar", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🎉 Belgrade’s nightlife so wild, even the rivers dance!",
+            "🍇 Grapes so good, wine’s basically royalty here!",
+            "🏰 Kalemegdan Fortress is so epic, history throws parties!"
+        ],
+        "areaSquareKm": 88361,
+        "nationalAnimal": "Wolf",
+        "climate": "Continental"
+    },
+    {
+        "id": "SK",
+        "flag": "🇸🇰",
+        "name": { "value": "Slovakia", "difficulty": 2 },
+        "capital": { "value": "Bratislava", "difficulty": 2 },
+        "largestCity": { "value": "Bratislava", "difficulty": 2 },
+        "officialLanguages": { "value": ["Slovak"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏰 Castles so many, even the ghosts 👻 book tours!",
+            "⛰️ High Tatras so stunning, the peaks high-five the sky!",
+            "🍲 Bryndzové halušky so tasty, sheep 🐑 approve!"
+        ],
+        "areaSquareKm": 49035,
+        "nationalAnimal": "Brown Bear",
+        "climate": "Temperate continental"
+    },
+    {
+        "id": "SI",
+        "flag": "🇸🇮",
+        "name": { "value": "Slovenia", "difficulty": 2 },
+        "capital": { "value": "Ljubljana", "difficulty": 2 },
+        "largestCity": { "value": "Ljubljana", "difficulty": 2 },
+        "officialLanguages": { "value": ["Slovene"], "difficulty": 3 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏞️ Lake Bled’s so pretty, even the swans 🦢 swoon!",
+            "🐝 Bees rule here—honey’s basically gold!",
+            "⛰️ Alps and caves so epic, nature’s showing off!"
+        ],
+        "areaSquareKm": 20273,
+        "nationalAnimal": "Olm",
+        "climate": "Continental and Mediterranean"
+    },
+    {
+        "id": "ES",
+        "flag": "🇪🇸",
+        "name": { "value": "Spain", "difficulty": 1 },
+        "capital": { "value": "Madrid", "difficulty": 1 },
+        "largestCity": { "value": "Madrid", "difficulty": 1 },
+        "officialLanguages": { "value": ["Spanish"], "difficulty": 1 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "💃 Flamenco so fiery, even the floors tap along!",
+            "� Tapas so yummy, every bite’s a fiesta 🎉!",
+            "🏖️ Beaches so perfect, the sun ☀️ RSVP’d!"
+        ],
+        "areaSquareKm": 505992,
+        "nationalAnimal": "Iberian Lynx",
+        "climate": "Mediterranean and continental"
+    },
+    {
+        "id": "SE",
+        "flag": "🇸🇪",
+        "name": { "value": "Sweden", "difficulty": 1 },
+        "capital": { "value": "Stockholm", "difficulty": 1 },
+        "largestCity": { "value": "Stockholm", "difficulty": 1 },
+        "officialLanguages": { "value": ["Swedish"], "difficulty": 2 },
+        "currency": { "value": "Swedish Krona", "difficulty": 2 },
+        "continent": "Europe",
+        "funFacts": [
+            "❄️ Snow so magical, even the moose 🦌 wear mittens!",
+            "🏝️ Archipelagos so cool, the fish 🐟 throw parties!",
+            "☕ Fika’s so chill, coffee’s basically a hug in a cup!"
+        ],
+        "areaSquareKm": 450295,
+        "nationalAnimal": "Moose",
+        "climate": "Temperate and subarctic"
+    },
+    {
+        "id": "CH",
+        "flag": "🇨🇭",
+        "name": { "value": "Switzerland", "difficulty": 1 },
+        "capital": { "value": "Bern", "difficulty": 2 },
+        "largestCity": { "value": "Zurich", "difficulty": 1 },
+        "officialLanguages": { "value": ["German", "French", "Italian", "Romansh"], "difficulty": 2 },
+        "currency": { "value": "Swiss Franc", "difficulty": 2 },
+        "continent": "Europe",
+        "funFacts": [
+            "⛰️ Alps so epic, even the goats 🐐 ski!",
+            "🍫 Chocolate so good, it’s basically a national treasure!",
+            "🕰️ Clocks so precise, even the cows 🐄 are on time!"
+        ],
+        "areaSquareKm": 41284,
+        "nationalAnimal": "St. Bernard Dog",
+        "climate": "Temperate; alpine"
+    },
+    {
+        "id": "UA",
+        "flag": "🇺🇦",
+        "name": { "value": "Ukraine", "difficulty": 2 },
+        "capital": { "value": "Kyiv", "difficulty": 1 },
+        "largestCity": { "value": "Kyiv", "difficulty": 1 },
+        "officialLanguages": { "value": ["Ukrainian"], "difficulty": 2 },
+        "currency": { "value": "Ukrainian Hryvnia", "difficulty": 3 },
+        "continent": "Europe",
+        "funFacts": [
+            "🌻 Sunflowers so bright, even the sun ☀️ takes notes!",
+            "🏰 Kyiv’s golden domes shine like a treasure chest!",
+            "🥟 Varenyky so tasty, every dumpling’s a VIP!"
+        ],
+        "areaSquareKm": 603548,
+        "nationalAnimal": "Nightingale",
+        "climate": "Temperate continental"
+    },
+    {
+        "id": "GB",
+        "flag": "🇬🇧",
+        "name": { "value": "United Kingdom", "difficulty": 1 },
+        "capital": { "value": "London", "difficulty": 1 },
+        "largestCity": { "value": "London", "difficulty": 1 },
+        "officialLanguages": { "value": ["English"], "difficulty": 1 },
+        "currency": { "value": "Pound Sterling", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "👑 Royals so iconic, even the corgis 🐶 wear crowns!",
+            "☕ Tea’s the MVP—every cup’s a warm hug!",
+            "🗿 Stonehenge so mysterious, aliens 👽 might’ve RSVP’d!"
+        ],
+        "areaSquareKm": 243610,
+        "nationalAnimal": "Lion",
+        "climate": "Temperate maritime"
+    },
+    {
+        "id": "VA",
+        "flag": "🇻🇦",
+        "name": { "value": "Vatican City", "difficulty": 3 },
+        "capital": { "value": "Vatican City", "difficulty": 3 },
+        "largestCity": { "value": "Vatican City", "difficulty": 3 },
+        "officialLanguages": { "value": ["Italian", "Latin"], "difficulty": 2 },
+        "currency": { "value": "Euro", "difficulty": 1 },
+        "continent": "Europe",
+        "funFacts": [
+            "🏛️ So tiny, even the statues wave hello!",
+            "🎨 Sistine Chapel’s so stunning, even the angels 😇 gasp!",
+            "⛪ Home of the Pope—holy vibes 24/7!"
+        ],
+        "areaSquareKm": 0.44,
+        "nationalAnimal": null,
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "AF",
+        "flag": "🇦🇫",
+        "name": { "value": "Afghanistan", "difficulty": 2 },
+        "capital": { "value": "Kabul", "difficulty": 2 },
+        "largestCity": { "value": "Kabul", "difficulty": 2 },
+        "officialLanguages": { "value": ["Pashto", "Dari"], "difficulty": 3 },
+        "currency": { "value": "Afghan Afghani", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏞️ The Hindu Kush mountains are so rugged, even the goats 🐐 are mountaineers!",
+            "🗿 Home to ancient Buddhas of Bamiyan—history carved in stone!",
+            "🍇 Grapes so sweet, they’re the real treasure of the valleys!"
+        ],
+        "areaSquareKm": 652230,
+        "nationalAnimal": "Snow Leopard",
+        "climate": "Arid to semiarid; cold winters, hot summers"
+    },
+    {
+        "id": "AM",
+        "flag": "🇦🇲",
+        "name": { "value": "Armenia", "difficulty": 3 },
+        "capital": { "value": "Yerevan", "difficulty": 3 },
+        "largestCity": { "value": "Yerevan", "difficulty": 3 },
+        "officialLanguages": { "value": ["Armenian"], "difficulty": 3 },
+        "currency": { "value": "Armenian Dram", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ First Christian nation ever—talk about a holy milestone!",
+            "🍑 Apricots so juicy, they’re practically the national fruit!",
+            "⛰️ Mount Ararat watches over like a timeless guardian!"
+        ],
+        "areaSquareKm": 29743,
+        "nationalAnimal": "Armenian Mouflon",
+        "climate": "Continental; hot summers, cold winters"
+    },
+    {
+        "id": "AZ",
+        "flag": "🇦🇿",
+        "name": { "value": "Azerbaijan", "difficulty": 3 },
+        "capital": { "value": "Baku", "difficulty": 2 },
+        "largestCity": { "value": "Baku", "difficulty": 2 },
+        "officialLanguages": { "value": ["Azerbaijani"], "difficulty": 3 },
+        "currency": { "value": "Azerbaijani Manat", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🔥 Eternal flames at Yanar Dag—nature’s own fire show!",
+            "🏞️ Mud volcanoes bubble up like the earth’s cooking!",
+            "🌊 Caspian Sea vibes so cool, even the fish 🐟 party!"
+        ],
+        "areaSquareKm": 86600,
+        "nationalAnimal": "Karabakh Horse",
+        "climate": "Semiarid and subtropical"
+    },
+    {
+        "id": "BH",
+        "flag": "🇧🇭",
+        "name": { "value": "Bahrain", "difficulty": 3 },
+        "capital": { "value": "Manama", "difficulty": 3 },
+        "largestCity": { "value": "Manama", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Bahraini Dinar", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏎️ Formula 1 races so fast, even the sand cheers!",
+            "🌴 Pearl diving’s legacy shines brighter than gold!",
+            "🏝️ Tiny island, big vibes—Gulf’s hidden gem!"
+        ],
+        "areaSquareKm": 765,
+        "nationalAnimal": "Arabian Oryx",
+        "climate": "Arid"
+    },
+    {
+        "id": "BD",
+        "flag": "🇧🇩",
+        "name": { "value": "Bangladesh", "difficulty": 2 },
+        "capital": { "value": "Dhaka", "difficulty": 2 },
+        "largestCity": { "value": "Dhaka", "difficulty": 2 },
+        "officialLanguages": { "value": ["Bengali"], "difficulty": 2 },
+        "currency": { "value": "Bangladeshi Taka", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🌿 Sundarbans mangroves so wild, tigers 🐅 rule the roost!",
+            "⛴️ Rivers everywhere—boats are the real MVPs!",
+            "🍚 Rice fields so green, they’re nature’s carpet!"
+        ],
+        "areaSquareKm": 147570,
+        "nationalAnimal": "Bengal Tiger",
+        "climate": "Tropical monsoon"
+    },
+    {
+        "id": "BT",
+        "flag": "🇧🇹",
+        "name": { "value": "Bhutan", "difficulty": 3 },
+        "capital": { "value": "Thimphu", "difficulty": 4 },
+        "largestCity": { "value": "Thimphu", "difficulty": 4 },
+        "officialLanguages": { "value": ["Dzongkha"], "difficulty": 4 },
+        "currency": { "value": "Bhutanese Ngultrum", "difficulty": 4 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏞️ Happiness is king—GNH beats GDP any day!",
+            "⛰️ Himalayas so majestic, even the clouds bow!",
+            "🏹 Archery’s the sport—bullseyes are Bhutanese hugs!"
+        ],
+        "areaSquareKm": 38394,
+        "nationalAnimal": "Takin",
+        "climate": "Subtropical to alpine"
+    },
+    {
+        "id": "BN",
+        "flag": "🇧🇳",
+        "name": { "value": "Brunei", "difficulty": 3 },
+        "capital": { "value": "Bandar Seri Begawan", "difficulty": 4 },
+        "largestCity": { "value": "Bandar Seri Begawan", "difficulty": 4 },
+        "officialLanguages": { "value": ["Malay"], "difficulty": 2 },
+        "currency": { "value": "Brunei Dollar", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🕌 Mosques so stunning, they’re gold-plated dreams!",
+            "🌴 Jungles so lush, even the monkeys 🐒 live luxe!",
+            "💰 Oil riches make it a tiny treasure chest!"
+        ],
+        "areaSquareKm": 5765,
+        "nationalAnimal": "Proboscis Monkey",
+        "climate": "Tropical rainforest"
+    },
+    {
+        "id": "KH",
+        "flag": "🇰🇭",
+        "name": { "value": "Cambodia", "difficulty": 2 },
+        "capital": { "value": "Phnom Penh", "difficulty": 3 },
+        "largestCity": { "value": "Phnom Penh", "difficulty": 3 },
+        "officialLanguages": { "value": ["Khmer"], "difficulty": 3 },
+        "currency": { "value": "Cambodian Riel", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏯 Angkor Wat’s so epic, even the stones whisper history!",
+            "🍜 Rice noodles so tasty, they’re a daily fiesta!",
+            "🌴 Mekong vibes so chill, fish 🐟 join the party!"
+        ],
+        "areaSquareKm": 181035,
+        "nationalAnimal": "Kouprey",
+        "climate": "Tropical monsoon"
+    },
+    {
+        "id": "CN",
+        "flag": "🇨🇳",
+        "name": { "value": "China", "difficulty": 1 },
+        "capital": { "value": "Beijing", "difficulty": 1 },
+        "largestCity": { "value": "Shanghai", "difficulty": 1 },
+        "officialLanguages": { "value": ["Mandarin"], "difficulty": 2 },
+        "currency": { "value": "Chinese Yuan", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏯 Great Wall’s so long, even dragons 🐉 get tired!",
+            "🐼 Pandas so cute, they’re cuddly ambassadors!",
+            "🍚 Rice fields so vast, they feed the world!"
+        ],
+        "areaSquareKm": 9596961,
+        "nationalAnimal": "Giant Panda",
+        "climate": "Diverse; temperate to subtropical"
+    },
+    {
+        "id": "GE",
+        "flag": "🇬🇪",
+        "name": { "value": "Georgia", "difficulty": 3 },
+        "capital": { "value": "Tbilisi", "difficulty": 3 },
+        "largestCity": { "value": "Tbilisi", "difficulty": 3 },
+        "officialLanguages": { "value": ["Georgian"], "difficulty": 3 },
+        "currency": { "value": "Georgian Lari", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🍷 Wine’s birthplace—cheers to 8,000 years!",
+            "⛰️ Caucasus peaks so high, clouds ☁️ RSVP!",
+            "🏰 Old towns so cool, history’s a neighbor!"
+        ],
+        "areaSquareKm": 69700,
+        "nationalAnimal": "Caucasian Leopard",
+        "climate": "Subtropical to continental"
+    },
+    {
+        "id": "IN",
+        "flag": "🇮🇳",
+        "name": { "value": "India", "difficulty": 1 },
+        "capital": { "value": "New Delhi", "difficulty": 1 },
+        "largestCity": { "value": "Mumbai", "difficulty": 1 },
+        "officialLanguages": { "value": ["Hindi", "English"], "difficulty": 1 },
+        "currency": { "value": "Indian Rupee", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ Taj Mahal’s so stunning, love built it brick by brick!",
+            "🌶️ Spices so bold, every dish is a party!",
+            "🐘 Elephants march like royalty through the jungles!"
+        ],
+        "areaSquareKm": 3287263,
+        "nationalAnimal": "Bengal Tiger",
+        "climate": "Tropical to temperate"
+    },
+    {
+        "id": "ID",
+        "flag": "🇮🇩",
+        "name": { "value": "Indonesia", "difficulty": 1 },
+        "capital": { "value": "Jakarta", "difficulty": 1 },
+        "largestCity": { "value": "Jakarta", "difficulty": 1 },
+        "officialLanguages": { "value": ["Indonesian"], "difficulty": 2 },
+        "currency": { "value": "Indonesian Rupiah", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏝️ 17,000 islands—beaches for days!",
+            "🌋 Volcanoes so active, they’re nature’s fireworks!",
+            "🐉 Komodo dragons rule like prehistoric VIPs!"
+        ],
+        "areaSquareKm": 1904569,
+        "nationalAnimal": "Komodo Dragon",
+        "climate": "Tropical"
+    },
+    {
+        "id": "IR",
+        "flag": "🇮🇷",
+        "name": { "value": "Iran", "difficulty": 2 },
+        "capital": { "value": "Tehran", "difficulty": 2 },
+        "largestCity": { "value": "Tehran", "difficulty": 2 },
+        "officialLanguages": { "value": ["Persian"], "difficulty": 2 },
+        "currency": { "value": "Iranian Rial", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏰 Persepolis vibes so ancient, history whispers!",
+            "🌸 Persian gardens so pretty, even the birds 🐦 swoon!",
+            "🍚 Saffron rice so golden, it’s a royal treat!"
+        ],
+        "areaSquareKm": 1648195,
+        "nationalAnimal": "Persian Leopard",
+        "climate": "Arid to subtropical"
+    },
+    {
+        "id": "IQ",
+        "flag": "🇮🇶",
+        "name": { "value": "Iraq", "difficulty": 2 },
+        "capital": { "value": "Baghdad", "difficulty": 2 },
+        "largestCity": { "value": "Baghdad", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic", "Kurdish"], "difficulty": 2 },
+        "currency": { "value": "Iraqi Dinar", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ Birthplace of writing—cuneiform’s OG!",
+            "🌴 Tigris and Euphrates flow like history’s veins!",
+            "🍲 Kebabs so tasty, even the desert approves!"
+        ],
+        "areaSquareKm": 438317,
+        "nationalAnimal": "Chukar Partridge",
+        "climate": "Arid"
+    },
+    {
+        "id": "IL",
+        "flag": "🇮🇱",
+        "name": { "value": "Israel", "difficulty": 2 },
+        "capital": { "value": "Jerusalem", "difficulty": 1 },
+        "largestCity": { "value": "Jerusalem", "difficulty": 1 },
+        "officialLanguages": { "value": ["Hebrew"], "difficulty": 2 },
+        "currency": { "value": "Israeli Shekel", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏖️ Dead Sea’s so salty, you float like magic!",
+            "🏛️ Jerusalem’s so holy, history hugs you!",
+            "🍊 Oranges so sweet, they’re sunshine in a peel!"
+        ],
+        "areaSquareKm": 20770,
+        "nationalAnimal": "Hoopoe",
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "JP",
+        "flag": "🇯🇵",
+        "name": { "value": "Japan", "difficulty": 1 },
+        "capital": { "value": "Tokyo", "difficulty": 1 },
+        "largestCity": { "value": "Tokyo", "difficulty": 1 },
+        "officialLanguages": { "value": ["Japanese"], "difficulty": 2 },
+        "currency": { "value": "Japanese Yen", "difficulty": 1 },
+        "continent": "Asia",
+        "funFacts": [
+            "🌸 Cherry blossoms so pretty, spring’s a pink party!",
+            "🍣 Sushi so fresh, fish 🐟 bow to the chefs!",
+            "🤖 Tech so cool, robots might say konnichiwa!"
+        ],
+        "areaSquareKm": 377975,
+        "nationalAnimal": "Green Pheasant",
+        "climate": "Temperate"
+    },
+    {
+        "id": "JO",
+        "flag": "🇯🇴",
+        "name": { "value": "Jordan", "difficulty": 2 },
+        "capital": { "value": "Amman", "difficulty": 2 },
+        "largestCity": { "value": "Amman", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Jordanian Dinar", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏜️ Petra’s so epic, it’s carved from dreams!",
+            "🌊 Dead Sea dips so chill, you’re a buoyant VIP!",
+            "🍲 Mansaf so tasty, lambs 🐑 high-five the chef!"
+        ],
+        "areaSquareKm": 89342,
+        "nationalAnimal": "Arabian Oryx",
+        "climate": "Arid"
+    },
+    {
+        "id": "KZ",
+        "flag": "🇰🇿",
+        "name": { "value": "Kazakhstan", "difficulty": 2 },
+        "capital": { "value": "Astana", "difficulty": 3 },
+        "largestCity": { "value": "Almaty", "difficulty": 3 },
+        "officialLanguages": { "value": ["Kazakh", "Russian"], "difficulty": 2 },
+        "currency": { "value": "Kazakhstani Tenge", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏞️ Steppes so vast, even the horses 🐎 gallop free!",
+            "🍎 Almaty’s apples so famous, they’re OG fruit!",
+            "🏙️ Astana’s skyline sparkles like a sci-fi dream!"
+        ],
+        "areaSquareKm": 2724900,
+        "nationalAnimal": "Snow Leopard",
+        "climate": "Continental"
+    },
+    {
+        "id": "KW",
+        "flag": "🇰🇼",
+        "name": { "value": "Kuwait", "difficulty": 2 },
+        "capital": { "value": "Kuwait City", "difficulty": 2 },
+        "largestCity": { "value": "Kuwait City", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Kuwaiti Dinar", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "💰 Richest currency ever—dinars are gold!",
+            "🏙️ Towers so sleek, they’re desert divas!",
+            "🐪 Camels strut like they own the sands!"
+        ],
+        "areaSquareKm": 17818,
+        "nationalAnimal": "Arabian Camel",
+        "climate": "Arid"
+    },
+    {
+        "id": "KG",
+        "flag": "🇰🇬",
+        "name": { "value": "Kyrgyzstan", "difficulty": 3 },
+        "capital": { "value": "Bishkek", "difficulty": 3 },
+        "largestCity": { "value": "Bishkek", "difficulty": 3 },
+        "officialLanguages": { "value": ["Kyrgyz", "Russian"], "difficulty": 3 },
+        "currency": { "value": "Kyrgyzstani Som", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "⛰️ Tian Shan peaks so high, eagles 🦅 soar proud!",
+            "🏞️ Lakes so clear, they’re nature’s mirrors!",
+            "🐎 Nomad vibes so strong, horses are family!"
+        ],
+        "areaSquareKm": 199951,
+        "nationalAnimal": "Snow Leopard",
+        "climate": "Continental"
+    },
+    {
+        "id": "LA",
+        "flag": "🇱🇦",
+        "name": { "value": "Laos", "difficulty": 3 },
+        "capital": { "value": "Vientiane", "difficulty": 3 },
+        "largestCity": { "value": "Vientiane", "difficulty": 3 },
+        "officialLanguages": { "value": ["Lao"], "difficulty": 3 },
+        "currency": { "value": "Lao Kip", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏯 Temples so serene, monks 🧘‍♂️ bless the vibes!",
+            "🌴 Jungles so wild, elephants 🐘 roam free!",
+            "🍜 Sticky rice so good, it’s a national hug!"
+        ],
+        "areaSquareKm": 236800,
+        "nationalAnimal": "Asian Elephant",
+        "climate": "Tropical monsoon"
+    },
+    {
+        "id": "LB",
+        "flag": "🇱🇧",
+        "name": { "value": "Lebanon", "difficulty": 2 },
+        "capital": { "value": "Beirut", "difficulty": 2 },
+        "largestCity": { "value": "Beirut", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Lebanese Pound", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ Roman ruins so cool, history’s a VIP!",
+            "🌲 Cedars so ancient, they’re Lebanon’s crown!",
+            "🍴 Hummus so smooth, it’s a Middle Eastern hug!"
+        ],
+        "areaSquareKm": 10452,
+        "nationalAnimal": "Striped Hyena",
+        "climate": "Mediterranean"
+    },
+    {
+        "id": "MY",
+        "flag": "🇲🇾",
+        "name": { "value": "Malaysia", "difficulty": 1 },
+        "capital": { "value": "Kuala Lumpur", "difficulty": 1 },
+        "largestCity": { "value": "Kuala Lumpur", "difficulty": 1 },
+        "officialLanguages": { "value": ["Malay"], "difficulty": 2 },
+        "currency": { "value": "Malaysian Ringgit", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏙️ Twin Towers so tall, they tickle the sky!",
+            "🌴 Rainforests so lush, orangutans 🦧 swing by!",
+            "🍜 Nasi lemak so tasty, it’s a flavor party!"
+        ],
+        "areaSquareKm": 330803,
+        "nationalAnimal": "Malayan Tiger",
+        "climate": "Tropical"
+    },
+    {
+        "id": "MV",
+        "flag": "🇲🇻",
+        "name": { "value": "Maldives", "difficulty": 2 },
+        "capital": { "value": "Malé", "difficulty": 3 },
+        "largestCity": { "value": "Malé", "difficulty": 3 },
+        "officialLanguages": { "value": ["Dhivehi"], "difficulty": 4 },
+        "currency": { "value": "Maldivian Rufiyaa", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏝️ Islands so dreamy, even the fish 🐠 sunbathe!",
+            "🌊 Water so clear, it’s a snorkeler’s paradise!",
+            "🌴 Coconut vibes so chill, they’re island royalty!"
+        ],
+        "areaSquareKm": 298,
+        "nationalAnimal": "Yellowfin Tuna",
+        "climate": "Tropical"
+    },
+    {
+        "id": "MN",
+        "flag": "🇲🇳",
+        "name": { "value": "Mongolia", "difficulty": 2 },
+        "capital": { "value": "Ulaanbaatar", "difficulty": 3 },
+        "largestCity": { "value": "Ulaanbaatar", "difficulty": 3 },
+        "officialLanguages": { "value": ["Mongolian"], "difficulty": 3 },
+        "currency": { "value": "Mongolian Tögrög", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏞️ Gobi Desert’s so wild, dinosaurs 🦖 left footprints!",
+            "🐎 Horses gallop like they own the steppes!",
+            "🏹 Genghis Khan’s legacy still rules the vibes!"
+        ],
+        "areaSquareKm": 1564116,
+        "nationalAnimal": "Przewalski’s Horse",
+        "climate": "Continental"
+    },
+    {
+        "id": "MM",
+        "flag": "🇲🇲",
+        "name": { "value": "Myanmar", "difficulty": 2 },
+        "capital": { "value": "Naypyidaw", "difficulty": 4 },
+        "largestCity": { "value": "Yangon", "difficulty": 2 },
+        "officialLanguages": { "value": ["Burmese"], "difficulty": 3 },
+        "currency": { "value": "Myanmar Kyat", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏯 Pagodas so golden, they glow like the sun!",
+            "🌴 Jungles so dense, elephants 🐘 lead the way!",
+            "🍜 Mohinga so yummy, it’s breakfast royalty!"
+        ],
+        "areaSquareKm": 676578,
+        "nationalAnimal": "Green Peafowl",
+        "climate": "Tropical monsoon"
+    },
+    {
+        "id": "NP",
+        "flag": "🇳🇵",
+        "name": { "value": "Nepal", "difficulty": 2 },
+        "capital": { "value": "Kathmandu", "difficulty": 2 },
+        "largestCity": { "value": "Kathmandu", "difficulty": 2 },
+        "officialLanguages": { "value": ["Nepali"], "difficulty": 2 },
+        "currency": { "value": "Nepalese Rupee", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "⛰️ Everest’s so tall, it high-fives the sky!",
+            "🏞️ Himalayas so epic, yaks 🐂 strut proud!",
+            "🙏 Temples so serene, peace is the VIP!"
+        ],
+        "areaSquareKm": 147181,
+        "nationalAnimal": "Himalayan Monal",
+        "climate": "Subtropical to alpine"
+    },
+    {
+        "id": "KP",
+        "flag": "🇰🇵",
+        "name": { "value": "North Korea", "difficulty": 2 },
+        "capital": { "value": "Pyongyang", "difficulty": 2 },
+        "largestCity": { "value": "Pyongyang", "difficulty": 2 },
+        "officialLanguages": { "value": ["Korean"], "difficulty": 2 },
+        "currency": { "value": "North Korean Won", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏞️ Mount Paektu’s so sacred, it’s a legend’s home!",
+            "🎉 Parades so grand, even the statues salute!",
+            "🍜 Kimchi so spicy, it’s a national treasure!"
+        ],
+        "areaSquareKm": 120540,
+        "nationalAnimal": "Chollima (mythical horse)",
+        "climate": "Temperate"
+    },
+    {
+        "id": "OM",
+        "flag": "🇴🇲",
+        "name": { "value": "Oman", "difficulty": 2 },
+        "capital": { "value": "Muscat", "difficulty": 3 },
+        "largestCity": { "value": "Muscat", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Omani Rial", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏜️ Deserts so vast, camels 🐪 rule the sands!",
+            "🏰 Forts so cool, history’s a VIP guest!",
+            "🌴 Dates so sweet, they’re desert candy!"
+        ],
+        "areaSquareKm": 309500,
+        "nationalAnimal": "Arabian Oryx",
+        "climate": "Arid"
+    },
+    {
+        "id": "PK",
+        "flag": "🇵🇰",
+        "name": { "value": "Pakistan", "difficulty": 1 },
+        "capital": { "value": "Islamabad", "difficulty": 2 },
+        "largestCity": { "value": "Karachi", "difficulty": 1 },
+        "officialLanguages": { "value": ["Urdu", "English"], "difficulty": 2 },
+        "currency": { "value": "Pakistani Rupee", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "⛰️ K2’s so epic, it’s a climber’s dream!",
+            "🍗 Biryani so spicy, it’s a flavor explosion!",
+            "🏞️ Valleys so green, even the goats 🐐 smile!"
+        ],
+        "areaSquareKm": 881913,
+        "nationalAnimal": "Markhor",
+        "climate": "Arid to temperate"
+    },
+    {
+        "id": "PH",
+        "flag": "🇵🇭",
+        "name": { "value": "Philippines", "difficulty": 1 },
+        "capital": { "value": "Manila", "difficulty": 1 },
+        "largestCity": { "value": "Quezon City", "difficulty": 2 },
+        "officialLanguages": { "value": ["Filipino", "English"], "difficulty": 1 },
+        "currency": { "value": "Philippine Peso", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏝️ 7,000 islands—beach vibes forever!",
+            "🌋 Volcanoes so stunning, they’re nature’s art!",
+            "🍲 Adobo so tasty, it’s a national hug!"
+        ],
+        "areaSquareKm": 300000,
+        "nationalAnimal": "Philippine Eagle",
+        "climate": "Tropical"
+    },
+    {
+        "id": "QA",
+        "flag": "🇶🇦",
+        "name": { "value": "Qatar", "difficulty": 2 },
+        "capital": { "value": "Doha", "difficulty": 2 },
+        "largestCity": { "value": "Doha", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Qatari Riyal", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏙️ Skyline so sleek, it’s a desert mirage!",
+            "⚽ World Cup vibes—stadiums are stars!",
+            "🐪 Camels strut like sandy royalty!"
+        ],
+        "areaSquareKm": 11586,
+        "nationalAnimal": "Arabian Oryx",
+        "climate": "Arid"
+    },
+    {
+        "id": "SA",
+        "flag": "🇸🇦",
+        "name": { "value": "Saudi Arabia", "difficulty": 1 },
+        "capital": { "value": "Riyadh", "difficulty": 2 },
+        "largestCity": { "value": "Riyadh", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Saudi Riyal", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏜️ Deserts so vast, dunes dance with the wind!",
+            "🕌 Mecca’s so holy, pilgrims 🌍 RSVP!",
+            "🛢️ Oil flows like the kingdom’s heartbeat!"
+        ],
+        "areaSquareKm": 2149690,
+        "nationalAnimal": "Arabian Camel",
+        "climate": "Arid"
+    },
+    {
+        "id": "SG",
+        "flag": "🇸🇬",
+        "name": { "value": "Singapore", "difficulty": 1 },
+        "capital": { "value": "Singapore", "difficulty": 1 },
+        "largestCity": { "value": "Singapore", "difficulty": 1 },
+        "officialLanguages": { "value": ["English", "Malay", "Mandarin", "Tamil"], "difficulty": 2 },
+        "currency": { "value": "Singapore Dollar", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏙️ Skyline so shiny, it’s a futuristic dream!",
+            "🍜 Hawker food so good, every bite’s a party!",
+            "🌴 Gardens so cool, nature’s a VIP!"
+        ],
+        "areaSquareKm": 719,
+        "nationalAnimal": "Lion",
+        "climate": "Tropical"
+    },
+    {
+        "id": "KR",
+        "flag": "🇰🇷",
+        "name": { "value": "South Korea", "difficulty": 1 },
+        "capital": { "value": "Seoul", "difficulty": 1 },
+        "largestCity": { "value": "Seoul", "difficulty": 1 },
+        "officialLanguages": { "value": ["Korean"], "difficulty": 2 },
+        "currency": { "value": "South Korean Won", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🎤 K-pop so catchy, even the mountains groove!",
+            "🍜 Kimchi so spicy, it’s a flavor fireworks show!",
+            "🏙️ Seoul’s so vibrant, tech and tradition dance!"
+        ],
+        "areaSquareKm": 100363,
+        "nationalAnimal": "Siberian Tiger",
+        "climate": "Temperate"
+    },
+    {
+        "id": "LK",
+        "flag": "🇱🇰",
+        "name": { "value": "Sri Lanka", "difficulty": 2 },
+        "capital": { "value": "Colombo", "difficulty": 2 },
+        "largestCity": { "value": "Colombo", "difficulty": 2 },
+        "officialLanguages": { "value": ["Sinhala", "Tamil"], "difficulty": 2 },
+        "currency": { "value": "Sri Lankan Rupee", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🍵 Tea so famous, hills bloom with flavor!",
+            "🐘 Elephants parade like island royalty!",
+            "🏝️ Beaches so golden, the sun ☀️ RSVP’d!"
+        ],
+        "areaSquareKm": 65610,
+        "nationalAnimal": "Grizzled Giant Squirrel",
+        "climate": "Tropical"
+    },
+    {
+        "id": "SY",
+        "flag": "🇸🇾",
+        "name": { "value": "Syria", "difficulty": 2 },
+        "capital": { "value": "Damascus", "difficulty": 2 },
+        "largestCity": { "value": "Aleppo", "difficulty": 2 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Syrian Pound", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ Damascus so old, it’s history’s VIP!",
+            "🍲 Falafel so tasty, it’s a Middle Eastern star!",
+            "🏰 Palmyra’s ruins whisper ancient tales!"
+        ],
+        "areaSquareKm": 185180,
+        "nationalAnimal": "Syrian Brown Bear",
+        "climate": "Arid to Mediterranean"
+    },
+    {
+        "id": "TJ",
+        "flag": "🇹🇯",
+        "name": { "value": "Tajikistan", "difficulty": 3 },
+        "capital": { "value": "Dushanbe", "difficulty": 3 },
+        "largestCity": { "value": "Dushanbe", "difficulty": 3 },
+        "officialLanguages": { "value": ["Tajik"], "difficulty": 3 },
+        "currency": { "value": "Tajikistani Somoni", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "⛰️ Pamir Mountains so high, they touch the stars!",
+            "🏞️ Lakes so blue, they’re nature’s jewels!",
+            "🍞 Bread so fresh, it’s a mountain hug!"
+        ],
+        "areaSquareKm": 143100,
+        "nationalAnimal": "Marco Polo Sheep",
+        "climate": "Continental"
+    },
+    {
+        "id": "TH",
+        "flag": "🇹🇭",
+        "name": { "value": "Thailand", "difficulty": 1 },
+        "capital": { "value": "Bangkok", "difficulty": 1 },
+        "largestCity": { "value": "Bangkok", "difficulty": 1 },
+        "officialLanguages": { "value": ["Thai"], "difficulty": 2 },
+        "currency": { "value": "Thai Baht", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏝️ Beaches so stunning, even the fish 🐟 sunbathe!",
+            "🍜 Pad Thai so yummy, it’s a flavor fiesta!",
+            "🐘 Elephants so chill, they’re Thai VIPs!"
+        ],
+        "areaSquareKm": 513120,
+        "nationalAnimal": "Asian Elephant",
+        "climate": "Tropical"
+    },
+    {
+        "id": "TL",
+        "flag": "🇹🇱",
+        "name": { "value": "Timor-Leste", "difficulty": 3 },
+        "capital": { "value": "Dili", "difficulty": 3 },
+        "largestCity": { "value": "Dili", "difficulty": 3 },
+        "officialLanguages": { "value": ["Tetum", "Portuguese"], "difficulty": 3 },
+        "currency": { "value": "United States Dollar", "difficulty": 1 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏝️ Coral reefs so vibrant, fish 🐠 throw parties!",
+            "☕ Coffee so bold, it’s a mountain treasure!",
+            "🌊 Coastlines so wild, waves high-five you!"
+        ],
+        "areaSquareKm": 14874,
+        "nationalAnimal": "Crocodile",
+        "climate": "Tropical"
+    },
+    {
+        "id": "TR",
+        "flag": "🇹🇷",
+        "name": { "value": "Turkey", "difficulty": 1 },
+        "capital": { "value": "Ankara", "difficulty": 2 },
+        "largestCity": { "value": "Istanbul", "difficulty": 1 },
+        "officialLanguages": { "value": ["Turkish"], "difficulty": 2 },
+        "currency": { "value": "Turkish Lira", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ Istanbul bridges two continents—talk about a split personality!",
+            "🍢 Kebabs so juicy, they’re street food royalty!",
+            "🎈 Cappadocia’s balloons soar like magic!"
+        ],
+        "areaSquareKm": 783562,
+        "nationalAnimal": "Gray Wolf",
+        "climate": "Temperate to arid"
+    },
+    {
+        "id": "TM",
+        "flag": "🇹🇲",
+        "name": { "value": "Turkmenistan", "difficulty": 3 },
+        "capital": { "value": "Ashgabat", "difficulty": 3 },
+        "largestCity": { "value": "Ashgabat", "difficulty": 3 },
+        "officialLanguages": { "value": ["Turkmen"], "difficulty": 3 },
+        "currency": { "value": "Turkmenistani Manat", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🔥 Darvaza Crater burns like hell’s front door!",
+            "🐎 Horses so fast, they’re desert Ferraris!",
+            "🏛️ White marble city shines like a dream!"
+        ],
+        "areaSquareKm": 488100,
+        "nationalAnimal": "Akhal-Teke Horse",
+        "climate": "Arid"
+    },
+    {
+        "id": "AE",
+        "flag": "🇦🇪",
+        "name": { "value": "United Arab Emirates", "difficulty": 1 },
+        "capital": { "value": "Abu Dhabi", "difficulty": 2 },
+        "largestCity": { "value": "Dubai", "difficulty": 1 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "UAE Dirham", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏙️ Burj Khalifa’s so tall, it hugs the clouds!",
+            "🏜️ Deserts meet luxury—camels 🐪 and Ferraris!",
+            "🛍️ Malls so big, shopping’s an adventure!"
+        ],
+        "areaSquareKm": 83600,
+        "nationalAnimal": "Arabian Oryx",
+        "climate": "Arid"
+    },
+    {
+        "id": "UZ",
+        "flag": "🇺🇿",
+        "name": { "value": "Uzbekistan", "difficulty": 2 },
+        "capital": { "value": "Tashkent", "difficulty": 2 },
+        "largestCity": { "value": "Tashkent", "difficulty": 2 },
+        "officialLanguages": { "value": ["Uzbek"], "difficulty": 3 },
+        "currency": { "value": "Uzbekistani Som", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏛️ Silk Road cities so old, history’s a VIP!",
+            "🍲 Plov so tasty, it’s a national treasure!",
+            "🏞️ Deserts and mountains dance together!"
+        ],
+        "areaSquareKm": 447400,
+        "nationalAnimal": "Snow Leopard",
+        "climate": "Continental"
+    },
+    {
+        "id": "VN",
+        "flag": "🇻🇳",
+        "name": { "value": "Vietnam", "difficulty": 1 },
+        "capital": { "value": "Hanoi", "difficulty": 1 },
+        "largestCity": { "value": "Ho Chi Minh City", "difficulty": 1 },
+        "officialLanguages": { "value": ["Vietnamese"], "difficulty": 2 },
+        "currency": { "value": "Vietnamese Dong", "difficulty": 2 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏞️ Ha Long Bay’s so dreamy, dragons 🐉 approve!",
+            "🍜 Pho so slurpy, it’s a noodle hug!",
+            "🚲 Rice paddies so green, they’re nature’s art!"
+        ],
+        "areaSquareKm": 331212,
+        "nationalAnimal": "Water Buffalo",
+        "climate": "Tropical"
+    },
+    {
+        "id": "YE",
+        "flag": "🇾🇪",
+        "name": { "value": "Yemen", "difficulty": 2 },
+        "capital": { "value": "Sana’a", "difficulty": 3 },
+        "largestCity": { "value": "Sana’a", "difficulty": 3 },
+        "officialLanguages": { "value": ["Arabic"], "difficulty": 2 },
+        "currency": { "value": "Yemeni Rial", "difficulty": 3 },
+        "continent": "Asia",
+        "funFacts": [
+            "🏰 Old Sana’a’s so ancient, it’s a living museum!",
+            "☕ Coffee’s roots here—mocha’s OG home!",
+            "🏜️ Deserts so wild, camels 🐪 lead the way!"
+        ],
+        "areaSquareKm": 527968,
+        "nationalAnimal": "Arabian Leopard",
+        "climate": "Arid"
+    }
+]

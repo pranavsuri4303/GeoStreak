@@ -82,7 +82,6 @@ final class UserProgress {
         // Each country has 3 possible challenges (one for each challenge type)
         let potentialChallengesInLevel = countCountriesInLevel(level) * DailyChallengeType.allCases.count
         
-        // Avoid division by zero
         guard potentialChallengesInLevel > 0 else { return 0 }
         
         return Double(totalChallengesInLevel) / Double(potentialChallengesInLevel)
