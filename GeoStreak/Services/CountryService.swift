@@ -23,10 +23,9 @@ actor CountryService {
     func initialize() async {
         if !isInitialized {
             do {
-                _ = try await loadAllCountries()
+                let countries = try await loadAllCountries()
                 isInitialized = true
-                print(self.countriesCache?.count ?? 0)
-                logInfo("CountryService initialized successfully with \(self.countriesCache?.count ?? 0) countries", category: Logger.data)
+                logInfo("CountryService initialized with \(countries.count) countries", category: Logger.data)
             } catch {
                 logError("CountryService initialization failed: \(error.localizedDescription)", category: Logger.data)
             }
@@ -41,21 +40,38 @@ actor CountryService {
             return cached
         }
         
-        // Load the data without using Task.detached
+        // Locate the JSON file
         guard let url = Bundle.main.url(forResource: "CountryData", withExtension: "json") else {
             logError("Failed to find CountryData.json in bundle", category: Logger.data)
             throw ServiceError.resourceNotFound
         }
         
         do {
+            // Load and decode the data
             let data = try Data(contentsOf: url)
+            
+            // Check if data is empty
+            guard !data.isEmpty else {
+                logError("CountryData.json is empty", category: Logger.data)
+                throw ServiceError.decodingFailed
+            }
+            
+            // Decode the data
             let decoder = JSONDecoder()
-            let countries = try decoder.decode([CountryData].self, from: data)
-            countriesCache = countries
-            return countries
+            do {
+                let countries = try decoder.decode([CountryData].self, from: data)
+                logInfo("Successfully loaded \(countries.count) countries", category: Logger.data)
+                countriesCache = countries
+                return countries
+            } catch {
+                logError("Failed to decode country data: \(error)", category: Logger.data)
+                throw ServiceError.decodingFailed
+            }
         } catch {
-            logError("Failed to decode country data: \(error.localizedDescription)", category: Logger.data)
-            throw ServiceError.decodingFailed
+            if !(error is ServiceError) {
+                logError("Failed to load country data: \(error.localizedDescription)", category: Logger.data)
+            }
+            throw error
         }
     }
     
@@ -72,7 +88,9 @@ actor CountryService {
     /// - Returns: Array of countries in the specified continent
     func getCountries(byContinent continent: String) async throws -> [CountryData] {
         let countries = try await loadAllCountries()
-        return countries.filter { $0.continent == continent }
+        let filtered = countries.filter { $0.continent == continent }
+        logDebug("Found \(filtered.count) countries in \(continent)", category: Logger.data)
+        return filtered
     }
     
     /// Gets countries sorted by difficulty level
@@ -93,6 +111,7 @@ actor CountryService {
     func clearCache() {
         countriesCache = nil
         isInitialized = false
+        logInfo("Countries cache cleared", category: Logger.data)
     }
     
     /// Errors that can occur in the service

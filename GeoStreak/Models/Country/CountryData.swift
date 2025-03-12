@@ -20,7 +20,6 @@ struct CountryData: Codable, Identifiable {
     
     let continent: String
     let funFacts: [String]?
-    let summary: String?
     let areaSquareKm: Int?
     let nationalAnimal: String?
     let climate: String?

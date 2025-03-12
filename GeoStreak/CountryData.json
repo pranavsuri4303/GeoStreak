@@ -15,8 +15,7 @@
         ],
         "areaSquareKm": 440,
         "nationalAnimal": "Fallow Deer",
-        "climate": "Tropical",
-        "summary": "Known for its pristine sailing waters and British colonial heritage, Antigua and Barbuda boasts a vibrant culture blending African and European influences. The nation's economy thrives on tourism while maintaining traditional Caribbean cultural expressions through music, festivals, and cuisine."
+        "climate": "Tropical"
     },
     {
         "id": "BS",
@@ -34,8 +33,7 @@
         ],
         "areaSquareKm": 13878,
         "nationalAnimal": "Flamingo",
-        "climate": "Tropical",
-        "summary": "This archipelago nation blends vibrant Junkanoo festivals with rich maritime traditions. Bahamians celebrate their heritage through colorful art, distinctive Goombay rhythms, and warm hospitality. The country's diverse ecosystems nurture a unique cultural identity celebrated through storytelling and community gatherings."
+        "climate": "Tropical"
     },
     {
         "id": "BB",
@@ -53,8 +51,7 @@
         ],
         "areaSquareKm": 430,
         "nationalAnimal": "Flying Fish",
-        "climate": "Tropical",
-        "summary": "Barbados charms visitors with its distinctive blend of British traditions and Caribbean soul. Bajans embrace their heritage through lively folk music, spirited cricket matches, and renowned culinary delights. The island's resilient spirit shines through its vibrant festivals and grassroots artistic movements."
+        "climate": "Tropical"
     },
     {
         "id": "BZ",
@@ -72,8 +69,7 @@
         ],
         "areaSquareKm": 22966,
         "nationalAnimal": "Baird's Tapir",
-        "climate": "Tropical",
-        "summary": "Belize celebrates its incredible cultural diversity with Garifuna, Maya, Creole, and Mestizo traditions harmoniously coexisting. The nation's rich heritage thrives through punta music, vibrant dances, and traditional crafts. Belizeans pride themselves on their environmental stewardship and welcoming, community-oriented lifestyle."
+        "climate": "Tropical"
     },
     {
         "id": "CA",
@@ -91,8 +87,7 @@
         ],
         "areaSquareKm": 9984670,
         "nationalAnimal": "North American Beaver",
-        "climate": "Varied",
-        "summary": "Renowned for its breathtaking wilderness and progressive values, Canada embraces diversity with open arms. From indigenous heritage to immigrant contributions, the cultural tapestry shines through art, literature, and internationally acclaimed festivals, all while maintaining a reputation for extraordinary politeness and community spirit."
+        "climate": "Varied"
     },
     {
         "id": "CR",
@@ -110,8 +105,7 @@
         ],
         "areaSquareKm": 51100,
         "nationalAnimal": "Yigüirro",
-        "climate": "Tropical",
-        "summary": "Pioneers of eco-tourism and sustainability, Costa Ricans embrace their 'Pura Vida' philosophy with genuine contentment. Having disbanded their military in 1949, this peaceful nation invests instead in education and environmental protection, fostering one of Latin America's most stable democracies and creating a harmonious balance between human progress and natural conservation."
+        "climate": "Tropical"
     },
     {
         "id": "CU",
@@ -129,8 +123,7 @@
         ],
         "areaSquareKm": 109884,
         "nationalAnimal": "Cuban Trogon",
-        "climate": "Tropical",
-        "summary": "Cuba's vibrant spirit resonates through its revolutionary history, world-class arts, and exceptional healthcare system. The island pulsates with the passionate beats of son, rumba, and mambo that birthed modern Latin dance, while its architectural treasures span colonial splendor to modernist innovation, preserved like a living museum of Caribbean cultural evolution."
+        "climate": "Tropical"
     },
     {
         "id": "DM",
@@ -148,8 +141,7 @@
         ],
         "areaSquareKm": 750,
         "nationalAnimal": "Sisserou Parrot",
-        "climate": "Tropical",
-        "summary": "Dominica stands as the Caribbean's untamed jewel, preserving indigenous Kalinago heritage alongside pristine ecological wonders. The island champions sustainability through renewable energy initiatives and innovative conservation programs, creating a haven where ancient traditions harmonize with forward-thinking environmental stewardship."
+        "climate": "Tropical"
     },
     {
         "id": "DO",
@@ -167,8 +159,7 @@
         ],
         "areaSquareKm": 48671,
         "nationalAnimal": "Palmchat",
-        "climate": "Tropical",
-        "summary": "The Dominican Republic blends Spanish, African, and Taíno influences into a vibrant cultural mosaic. Home to the Americas' first cathedral and university, its rich heritage thrives through distinctive music, passionate baseball tradition, and warm hospitality, creating a nation where historical depth and modern vitality dance together under the Caribbean sun."
+        "climate": "Tropical"
     },
     {
         "id": "SV",
@@ -186,8 +177,7 @@
         ],
         "areaSquareKm": 21041,
         "nationalAnimal": "Torogoz",
-        "climate": "Tropical",
-        "summary": "El Salvador captivates with its remarkable resilience and creative renaissance. The smallest Central American nation packs outsized cultural punch through distinctive handicrafts, vibrant folk art, and emerging contemporary scenes. Ancient Mayan ruins whisper historical secrets while innovative artists and entrepreneurs forge bold new paths in this determined and dynamic country."
+        "climate": "Tropical"
     },
     {
         "id": "GD",
@@ -205,8 +195,7 @@
         ],
         "areaSquareKm": 344,
         "nationalAnimal": "Grenada Dove",
-        "climate": "Tropical",
-        "summary": "Grenada's cultural tapestry weaves African, European, and Indigenous influences into a unique Caribbean identity. The island's warm-hearted people celebrate life through vibrant festivals, traditional storytelling, and community gatherings. Historical landmarks tell tales of resilience, while aromatic spice plantations continue centuries-old traditions that flavor both local cuisine and global kitchens."
+        "climate": "Tropical"
     },
     {
         "id": "GT",
@@ -224,8 +213,7 @@
         ],
         "areaSquareKm": 108889,
         "nationalAnimal": "Resplendent Quetzal",
-        "climate": "Varied",
-        "summary": "Guatemala preserves one of the world's most vibrant indigenous cultures, with Maya traditions thriving through textiles, spirituality, and community practices. The country's artistic heritage shines through intricate weaving patterns and colorful folk art, while its literary tradition has produced Nobel Prize-winning poetry, creating a nation where ancient wisdom and creative expression beautifully intertwine."
+        "climate": "Varied"
     },
     {
         "id": "HT",
@@ -243,8 +231,7 @@
         ],
         "areaSquareKm": 27750,
         "nationalAnimal": "Haitian Trogon",
-        "climate": "Tropical",
-        "summary": "Haiti made history as the world's first Black-led republic and second independent nation in the Americas. Its revolutionary spirit lives on through extraordinary artistic expression, with vibrant paintings, intricate metal sculptures, and innovative music that transforms everyday materials into powerful cultural statements showcasing the Haitian people's legendary creativity and resilience."
+        "climate": "Tropical"
     },
     {
         "id": "HN",
@@ -262,8 +249,7 @@
         ],
         "areaSquareKm": 112492,
         "nationalAnimal": "White-tailed Deer",
-        "climate": "Tropical",
-        "summary": "Honduras cradles the magnificent ruins of Copán, a testament to Mayan astronomical genius and artistic mastery. The country's cultural mosaic includes vibrant indigenous communities preserving ancient traditions alongside distinctive Garifuna culture with its mesmerizing music and dance. From cloud forests to coral reefs, Honduras protects extraordinary biodiversity in its impressive national park system."
+        "climate": "Tropical"
     },
     {
         "id": "JM",
@@ -281,8 +267,7 @@
         ],
         "areaSquareKm": 10991,
         "nationalAnimal": "Red-billed Streamertail",
-        "climate": "Tropical",
-        "summary": "Jamaica's cultural impact far exceeds its geographical size, gifting the world reggae music, Rastafarian philosophy, and sporting legends. The island's distinctive patois adds rhythmic flair to everyday conversation, while its literary tradition has produced internationally acclaimed authors. From jerk seasoning to Blue Mountain coffee, Jamaican flavors captivate global palates with their bold, unforgettable character."
+        "climate": "Tropical"
     },
     {
         "id": "MX",
@@ -300,8 +285,7 @@
         ],
         "areaSquareKm": 1964375,
         "nationalAnimal": "Golden Eagle",
-        "climate": "Varied",
-        "summary": "Mexico's cultural legacy spans thousands of years, from Olmec colossal heads to internationally acclaimed contemporary art. The country's cinematic golden age and thriving film industry continue capturing global imagination, while its literary giants have won Nobel Prizes. Mexican innovation extends from ancient calendars to modern scientific breakthroughs, all infused with distinctive artistic flair and philosophical depth."
+        "climate": "Varied"
     },
     {
         "id": "NI",
@@ -319,8 +303,7 @@
         ],
         "areaSquareKm": 130375,
         "nationalAnimal": "Jaguar",
-        "climate": "Tropical",
-        "summary": "Nicaragua boasts a rich literary tradition that has produced world-class poets including Rubén Darío, father of the Spanish-American literary movement. The country's vibrant folklore blends indigenous myths with colonial influences, expressed through colorful street festivals and traditional dances. From hammock weaving to distinctive ceramics, Nicaraguan craftsmanship reflects generations of artistic expertise and cultural pride."
+        "climate": "Tropical"
     },
     {
         "id": "PA",
@@ -2388,7 +2371,7 @@
             "🎨 Sistine Chapel’s so stunning, even the angels 😇 gasp!",
             "⛪ Home of the Pope—holy vibes 24/7!"
         ],
-        "areaSquareKm": 0.44,
+        "areaSquareKm": 1,
         "nationalAnimal": null,
         "climate": "Mediterranean"
     },
