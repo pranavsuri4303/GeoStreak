@@ -11,13 +11,13 @@ struct OnboardingPageView: View {
     let pageType: OnboardingPageType
     
     var body: some View {
-        VStack(spacing: 20) {
+        VStack(spacing: AppConstants.Layout.large) {
             Spacer()
             
             Image(systemName: pageType.imageName)
                 .resizable()
                 .scaledToFit()
-                .frame(width: 120, height: 120)
+                .frame(width: AppConstants.Layout.xxLarge * 1.2, height: AppConstants.Layout.xxLarge * 1.2)
                 .foregroundColor(pageType.color)
                 .padding()
                 .background(
@@ -29,22 +29,22 @@ struct OnboardingPageView: View {
                 .transition(.scale.combined(with: .opacity))
             
             Text(pageType.title)
-                .font(.system(size: 28, weight: .bold))
+                .font(AppConstants.Typography.title1())
                 .multilineTextAlignment(.center)
-                .padding(.top, 20)
+                .padding(.top, AppConstants.Layout.large)
                 .transition(.move(edge: .trailing).combined(with: .opacity))
             
             Text(pageType.description)
-                .font(.body)
+                .font(AppConstants.Typography.body())
                 .multilineTextAlignment(.center)
-                .padding(.horizontal, 40)
-                .foregroundColor(.secondary)
+                .padding(.horizontal, AppConstants.Layout.xLarge)
+                .foregroundColor(AppConstants.Colors.secondaryText)
                 .transition(.move(edge: .trailing).combined(with: .opacity))
             
             Spacer()
         }
-        .padding()
-        .background(Color(.systemBackground))
+        .padding(AppConstants.Layout.screenPadding)
+        .background(AppConstants.Colors.background)
         .transition(.asymmetric(
             insertion: .move(edge: .trailing),
             removal: .move(edge: .leading)

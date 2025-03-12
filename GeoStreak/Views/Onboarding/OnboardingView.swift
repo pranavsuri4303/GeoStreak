@@ -1,5 +1,5 @@
 //
-//  OnboardingView 3.swift
+//  OnboardingView.swift
 //  GeoStreak
 //
 //  Created by Pranav Suri on 2025-03-11.
@@ -37,16 +37,16 @@ struct OnboardingView: View {
                     HStack {
                         if coordinator.currentPage != .welcome {
                             Button(action: {
-                                withAnimation(.easeInOut(duration: 0.3)) {
+                                withAnimation(AppConstants.Layout.defaultAnimation) {
                                     coordinator.previousPage()
                                 }
                             }) {
-                                Text("Back")
+                                Text(AppConstants.Text.backButton)
                                     .fontWeight(.medium)
-                                    .frame(width: 100, height: 50)
+                                    .frame(width: 100, height: AppConstants.Layout.buttonHeight)
                                     .background(Color.gray.opacity(0.2))
-                                    .foregroundColor(.primary)
-                                    .cornerRadius(10)
+                                    .foregroundColor(AppConstants.Colors.primaryText)
+                                    .cornerRadius(AppConstants.UI.cornerRadius)
                             }
                         } else {
                             Spacer()
@@ -59,27 +59,27 @@ struct OnboardingView: View {
                             if coordinator.currentPage == .getStarted {
                                 coordinator.completeOnboarding()
                             } else {
-                                withAnimation(.easeInOut(duration: 0.3)) {
+                                withAnimation(AppConstants.Layout.defaultAnimation) {
                                     coordinator.nextPage()
                                 }
                             }
                         }) {
-                            Text(coordinator.currentPage == .getStarted ? "Get Started" : "Next")
+                            Text(coordinator.currentPage == .getStarted ? AppConstants.Text.doneButton : AppConstants.Text.nextButton)
                                 .fontWeight(.bold)
-                                .frame(width: 150, height: 50)
+                                .frame(width: 150, height: AppConstants.Layout.buttonHeight)
                                 .background(coordinator.currentPage.color)
                                 .foregroundColor(.white)
-                                .cornerRadius(10)
+                                .cornerRadius(AppConstants.UI.cornerRadius)
                         }
                     }
-                    .padding(.horizontal, 30)
-                    .padding(.bottom, 50)
+                    .padding(.horizontal, AppConstants.Layout.screenPadding * 1.5)
+                    .padding(.bottom, AppConstants.Layout.xxLarge)
                 }
-                .animation(.easeInOut(duration: 0.3), value: coordinator.currentPage)
+                .animation(AppConstants.Layout.defaultAnimation, value: coordinator.currentPage)
             }
             .navigationBarBackButtonHidden(true)
         }
-        .background(Color(.systemBackground))
+        .background(AppConstants.Colors.background)
         .edgesIgnoringSafeArea(.all)
     }
 }

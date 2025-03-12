@@ -1,5 +1,5 @@
 //
-//  NotificationSettingsView 2.swift
+//  NotificationSettingsView.swift
 //  GeoStreak
 //
 //  Created by Pranav Suri on 2025-03-11.
@@ -11,13 +11,13 @@ struct NotificationSettingsView: View {
     @ObservedObject var coordinator: OnboardingCoordinator
     
     var body: some View {
-        VStack(spacing: 20) {
+        VStack(spacing: AppConstants.Layout.large) {
             Spacer()
             
             Image(systemName: OnboardingPageType.notifications.imageName)
                 .resizable()
                 .scaledToFit()
-                .frame(width: 100, height: 100)
+                .frame(width: AppConstants.Layout.xxLarge, height: AppConstants.Layout.xxLarge)
                 .foregroundColor(OnboardingPageType.notifications.color)
                 .padding()
                 .background(
@@ -28,24 +28,24 @@ struct NotificationSettingsView: View {
                 .transition(.scale.combined(with: .opacity))
             
             Text(OnboardingPageType.notifications.title)
-                .font(.system(size: 28, weight: .bold))
+                .font(AppConstants.Typography.title1())
                 .multilineTextAlignment(.center)
                 .transition(.move(edge: .trailing).combined(with: .opacity))
             
             Text(OnboardingPageType.notifications.description)
-                .font(.body)
+                .font(AppConstants.Typography.body())
                 .multilineTextAlignment(.center)
-                .padding(.horizontal, 40)
-                .foregroundColor(.secondary)
+                .padding(.horizontal, AppConstants.Layout.xLarge)
+                .foregroundColor(AppConstants.Colors.secondaryText)
                 .transition(.move(edge: .trailing).combined(with: .opacity))
             
-            VStack(spacing: 12) {
+            VStack(spacing: AppConstants.Layout.small) {
                 ForEach(ReminderOption.options) { option in
                     ReminderOptionButton(
                         option: option,
                         isSelected: coordinator.selectedReminderHour == option.hour,
                         action: {
-                            withAnimation(.spring()) {
+                            withAnimation(AppConstants.Layout.defaultAnimation) {
                                 coordinator.selectedReminderHour = option.hour
                             }
                         }
@@ -53,42 +53,42 @@ struct NotificationSettingsView: View {
                     .transition(.scale.combined(with: .opacity))
                 }
             }
-            .padding(.top, 20)
+            .padding(.top, AppConstants.Layout.large)
             
             // Show notification status message if determined
             if coordinator.notificationStatus != .notDetermined {
                 HStack {
                     Image(systemName: coordinator.notificationStatus == .granted ? "checkmark.circle.fill" : "xmark.circle.fill")
-                        .foregroundColor(coordinator.notificationStatus == .granted ? .green : .red)
+                        .foregroundColor(coordinator.notificationStatus == .granted ? AppConstants.Colors.success : AppConstants.Colors.error)
                     
                     Text(coordinator.notificationStatus == .granted
                          ? "Notifications enabled! You'll receive daily reminders."
                          : "Notifications disabled. Enable in Settings to receive reminders.")
-                        .font(.footnote)
-                        .foregroundColor(coordinator.notificationStatus == .granted ? .green : .red)
+                        .font(AppConstants.Typography.footnote())
+                        .foregroundColor(coordinator.notificationStatus == .granted ? AppConstants.Colors.success : AppConstants.Colors.error)
                 }
-                .padding()
+                .padding(AppConstants.Layout.medium)
                 .background(Color(coordinator.notificationStatus == .granted ? .systemGreen : .systemRed).opacity(0.1))
-                .cornerRadius(8)
+                .cornerRadius(AppConstants.Layout.smallRadius)
                 .transition(.move(edge: .bottom).combined(with: .opacity))
             }
             
             Spacer()
         }
-        .padding(.horizontal)
-        .background(Color(.systemBackground))
-        .alert("Allow Notifications", isPresented: $coordinator.showPermissionAlert) {
-            Button("Allow", role: .none) {
+        .padding(.horizontal, AppConstants.Layout.screenPadding)
+        .background(AppConstants.Colors.background)
+        .alert(AppConstants.Notifications.notificationPermissionTitle, isPresented: $coordinator.showPermissionAlert) {
+            Button(AppConstants.Text.continueButton, role: .none) {
                 coordinator.requestNotificationPermissions()
             }
-            Button("Skip", role: .cancel) {
+            Button(AppConstants.Text.skipButton, role: .cancel) {
                 coordinator.notificationStatus = .denied
-                withAnimation(.easeInOut(duration: 0.3)) {
+                withAnimation(AppConstants.Layout.defaultAnimation) {
                     coordinator.advanceToNextPage()
                 }
             }
         } message: {
-            Text("Enable notifications to get daily reminders for your geography challenge.")
+            Text(AppConstants.Notifications.notificationPermissionMessage)
         }
         .transition(.asymmetric(
             insertion: .move(edge: .trailing),
@@ -105,37 +105,37 @@ struct ReminderOptionButton: View {
     var body: some View {
         Button(action: action) {
             HStack(alignment: .center) {
-                VStack(alignment: .leading, spacing: 4) {
+                VStack(alignment: .leading, spacing: AppConstants.Layout.xxxSmall) {
                     Text(option.name)
-                        .font(.headline)
-                        .foregroundColor(isSelected ? .blue : .primary)
+                        .font(AppConstants.Typography.headline())
+                        .foregroundColor(isSelected ? AppConstants.Colors.primary : AppConstants.Colors.primaryText)
                     
                     Text(option.description)
-                        .font(.caption)
-                        .foregroundColor(.secondary)
+                        .font(AppConstants.Typography.caption1())
+                        .foregroundColor(AppConstants.Colors.secondaryText)
                 }
                 
                 Spacer()
                 
                 if isSelected {
                     Image(systemName: "checkmark.circle.fill")
-                        .foregroundColor(.blue)
-                        .font(.title3)
+                        .foregroundColor(AppConstants.Colors.primary)
+                        .font(.system(size: AppConstants.Typography.title3))
                         .transition(.scale)
                 }
             }
-            .padding(.vertical, 12)
-            .padding(.horizontal, 16)
+            .padding(.vertical, AppConstants.Layout.small)
+            .padding(.horizontal, AppConstants.Layout.medium)
             .background(
-                RoundedRectangle(cornerRadius: 12)
-                    .fill(isSelected ? Color.blue.opacity(0.1) : Color.gray.opacity(0.05))
+                RoundedRectangle(cornerRadius: AppConstants.Layout.smallRadius)
+                    .fill(isSelected ? AppConstants.Colors.primary.opacity(0.1) : Color.gray.opacity(0.05))
                     .overlay(
-                        RoundedRectangle(cornerRadius: 12)
-                            .strokeBorder(isSelected ? Color.blue : Color.gray.opacity(0.2), lineWidth: 1)
+                        RoundedRectangle(cornerRadius: AppConstants.Layout.smallRadius)
+                            .strokeBorder(isSelected ? AppConstants.Colors.primary : Color.gray.opacity(0.2), lineWidth: 1)
                     )
             )
         }
         .buttonStyle(PlainButtonStyle())
-        .animation(.spring(), value: isSelected)
+        .animation(AppConstants.Layout.defaultAnimation, value: isSelected)
     }
 }

@@ -11,12 +11,7 @@ struct StatsView: View {
     @EnvironmentObject var gameManager: GameManager
     
     var body: some View {
-        VStack(spacing: 20) {
-            Text("Your Stats")
-                .font(.largeTitle)
-                .fontWeight(.bold)
-                .padding(.top)
-            
+        NavigationView {
             VStack(spacing: 25) {
                 StatCard(title: "Current Streak",
                          value: "\(gameManager.userProgress.streak)",
@@ -49,8 +44,7 @@ struct StatsView: View {
                          color: .teal)
             }
             .padding()
-            
-            Spacer()
+            .navigationTitle(Text("Your Stats"))
         }
     }
     

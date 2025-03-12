@@ -19,6 +19,7 @@ final class UserProgress {
     var hasCompletedOnboarding: Bool
     var preferredReminderHour: Int = 8
     @Relationship(deleteRule: .cascade) var completedCountries: [Country] = []
+    @Relationship(deleteRule: .cascade) var completedChallenges: [CompletedChallenge] = []
     
     init(streak: Int = 0,
          longestStreak: Int = 0,
@@ -49,5 +50,46 @@ final class UserProgress {
             country.isCompleted = true
             completedCountries.append(country)
         }
+    }
+    
+    // Check if a specific challenge for a country is completed
+    func isChallengeCompleted(countryName: String, challengeType: DailyChallengeType) -> Bool {
+        return completedChallenges.contains(where: {
+            $0.countryName == countryName && $0.challengeTypeId == challengeType.id
+        })
+    }
+    
+    // Mark a specific challenge as completed
+    func markChallengeCompleted(countryName: String, challengeType: DailyChallengeType) {
+        if !isChallengeCompleted(countryName: countryName, challengeType: challengeType) {
+            let challenge = CompletedChallenge(
+                countryName: countryName,
+                challengeTypeId: challengeType.id
+            )
+            completedChallenges.append(challenge)
+        }
+    }
+    
+    // Calculate the completion percentage for a level
+    func completionPercentage(for level: Int) -> Double {
+        let totalChallengesInLevel = completedChallenges.filter { challenge in
+            // Find the country this challenge belongs to
+            let country = completedCountries.first { $0.name == challenge.countryName }
+            // Check if it's in the requested level
+            return country?.level == level
+        }.count
+        
+        // Each country has 3 possible challenges (one for each challenge type)
+        let potentialChallengesInLevel = countCountriesInLevel(level) * DailyChallengeType.allCases.count
+        
+        // Avoid division by zero
+        guard potentialChallengesInLevel > 0 else { return 0 }
+        
+        return Double(totalChallengesInLevel) / Double(potentialChallengesInLevel)
+    }
+    
+    // Count the number of countries in a specific level
+    private func countCountriesInLevel(_ level: Int) -> Int {
+        return completedCountries.filter { $0.level == level }.count
     }
 }
